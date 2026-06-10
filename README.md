@@ -44,7 +44,7 @@ Ele abre o dashboard no navegador. Feche a janela preta para encerrar.
 
 ## Link publico
 
-**https://anagiuliappadvs-jpg.github.io/dashboard-instagram/**
+**https://anagiuliappadvs-jpg.github.io/paccolaepelegrini/**
 
 (atualiza sozinho todo dia as 11h, quando o coletor roda e publica o snapshot)
 
