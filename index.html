@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard de Instagram</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="carregando" class="carregando">Carregando dados…</div>
+
+  <main id="app" hidden>
+    <!-- Cabecalho -->
+    <header class="topo">
+      <div class="perfil">
+        <img id="foto" class="foto" alt="" />
+        <div>
+          <h1 id="nome">—</h1>
+          <a id="handle" class="handle" target="_blank" rel="noopener">@—</a>
+          <p id="bio" class="bio"></p>
+        </div>
+      </div>
+      <div class="atualizacao">
+        <span class="ponto"></span>
+        <span id="atualizado">—</span>
+      </div>
+    </header>
+
+    <!-- Visao geral -->
+    <section class="cards" id="cards"></section>
+
+    <!-- Crescimento + Formato -->
+    <section class="grade-2">
+      <div class="painel">
+        <h2>Crescimento de seguidores</h2>
+        <canvas id="grafCrescimento"></canvas>
+        <p class="nota" id="notaCrescimento"></p>
+      </div>
+      <div class="painel">
+        <h2>Engajamento por formato</h2>
+        <canvas id="grafFormato"></canvas>
+      </div>
+    </section>
+
+    <!-- Funil + Audiencia genero -->
+    <section class="grade-2">
+      <div class="painel">
+        <h2>Funil de conversão</h2>
+        <div id="funil" class="funil"></div>
+      </div>
+      <div class="painel">
+        <h2>Audiência por gênero</h2>
+        <canvas id="grafGenero"></canvas>
+      </div>
+    </section>
+
+    <!-- Audiencia idade + cidades -->
+    <section class="grade-2">
+      <div class="painel">
+        <h2>Audiência por faixa etária</h2>
+        <canvas id="grafIdade"></canvas>
+      </div>
+      <div class="painel">
+        <h2>Principais cidades</h2>
+        <canvas id="grafCidade"></canvas>
+      </div>
+    </section>
+
+    <!-- Melhores horarios -->
+    <section class="painel">
+      <h2>Melhores horários para postar</h2>
+      <p class="sub">Engajamento médio por dia da semana × hora (mais escuro = melhor)</p>
+      <div id="heatmap" class="heatmap"></div>
+    </section>
+
+    <!-- Sugestoes baseadas em dados -->
+    <section class="painel">
+      <h2>Sugestões baseadas nos seus dados</h2>
+      <p class="sub">Geradas a partir do que já funciona — sempre revise pela conformidade OAB.</p>
+      <ul id="sugestoes" class="sugestoes"></ul>
+    </section>
+
+    <!-- Desempenho dos posts -->
+    <section class="painel">
+      <div class="cabecalho-tabela">
+        <h2>Desempenho dos posts</h2>
+        <div class="filtros">
+          <select id="filtroFormato">
+            <option value="">Todos os formatos</option>
+            <option value="Reel">Reels</option>
+            <option value="Carrossel">Carrossel</option>
+            <option value="Foto">Foto</option>
+          </select>
+        </div>
+      </div>
+      <div class="tabela-wrap">
+        <table id="tabela">
+          <thead>
+            <tr>
+              <th>Post</th>
+              <th data-ordenar="timestamp">Data</th>
+              <th data-ordenar="formato">Formato</th>
+              <th data-ordenar="likes" class="num">❤</th>
+              <th data-ordenar="comentarios" class="num">💬</th>
+              <th data-ordenar="salvos" class="num">🔖</th>
+              <th data-ordenar="alcance" class="num">Alcance</th>
+              <th data-ordenar="engajamento" class="num">Engaj.</th>
+            </tr>
+          </thead>
+          <tbody id="corpoTabela"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Top e piores -->
+    <section class="grade-2">
+      <div class="painel">
+        <h2>🏆 5 melhores posts</h2>
+        <div id="melhores" class="lista-posts"></div>
+      </div>
+      <div class="painel">
+        <h2>📉 5 que menos engajaram</h2>
+        <div id="piores" class="lista-posts"></div>
+      </div>
+    </section>
+
+    <!-- Planejamento -->
+    <section class="painel">
+      <div class="cabecalho-tabela">
+        <h2>Planejamento de conteúdo</h2>
+        <span id="metaBadge" class="meta-badge"></span>
+      </div>
+      <div id="kanban" class="kanban"></div>
+    </section>
+
+    <!-- Conformidade OAB -->
+    <section class="grade-2">
+      <div class="painel ok">
+        <h2>✓ Pode postar (OAB)</h2>
+        <ul id="oabPermitidos" class="oab"></ul>
+      </div>
+      <div class="painel risco">
+        <h2>⚠ Evitar (OAB)</h2>
+        <ul id="oabVedados" class="oab"></ul>
+      </div>
+    </section>
+
+    <footer class="rodape">
+      <p>Dashboard somente leitura · dados via Instagram Graph API · nenhum dado sensível exposto.</p>
+      <p class="aviso-oab">Lembrete: confirme as regras de publicidade com a sua seccional da OAB (há revisão em andamento).</p>
+    </footer>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

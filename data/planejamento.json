@@ -1,0 +1,33 @@
+{
+  "_comentario": "Voce edita este arquivo. O site publico mostra so leitura. (Conteudo completo entra na Fase 5.)",
+  "metaDoMes": {
+    "descricao": "+500 seguidores",
+    "atual": 0,
+    "meta": 500
+  },
+  "colunas": {
+    "Ideia": [],
+    "Rascunho": [],
+    "Agendado": [],
+    "Publicado": []
+  },
+  "bancoDeIdeias": [],
+  "pilaresOAB": {
+    "permitidos": [
+      "Explicacao de direitos e leis em linguagem acessivel (voce sabia que...)",
+      "Noticias e mudancas na legislacao / decisoes relevantes",
+      "Mitos x verdades sobre temas juridicos",
+      "FAQ de duvidas comuns da area de atuacao",
+      "Conteudo institucional sobrio (quem somos, areas, equipe)",
+      "Datas e efemerides juridicas",
+      "Participacao em palestras, artigos, videos explicativos"
+    ],
+    "vedados": [
+      "Prometer resultados (ganhe sua causa, 100% de exito)",
+      "Captacao de clientela / chamadas comerciais agressivas (contrate ja)",
+      "Mostrar casos ganhos, valores de indenizacao ou nomes de clientes",
+      "Tabela de precos, promocoes, descontos",
+      "Sensacionalismo e autopromocao mercantilista"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "dashboard-instagram",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Dashboard de Instagram da empresa (coletor + site publico)",
+  "type": "module",
+  "scripts": {
+    "coletar": "node coletor/fetch_instagram.js",
+    "renovar-token": "node coletor/refresh_token.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

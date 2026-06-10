@@ -1,0 +1,15 @@
+# NUNCA versionar segredos
+.env
+.env.local
+*.local
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Logs do coletor (uso local, nao precisa publicar)
+coletor/logs/
+logs.txt
+
+# Config de preview local
+.claude/
