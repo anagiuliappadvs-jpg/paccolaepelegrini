@@ -42,13 +42,19 @@ npm run renovar-token    # renova o token de longa duracao (rode ~1x/mes)
 Clique 2x no arquivo **"Abrir Dashboard.bat"** (na pasta do projeto).
 Ele abre o dashboard no navegador. Feche a janela preta para encerrar.
 
+## Link publico
+
+**https://anagiuliappadvs-jpg.github.io/dashboard-instagram/**
+
+(atualiza sozinho todo dia as 11h, quando o coletor roda e publica o snapshot)
+
 ## Status das fases
 
 - [x] Fase 1 - Coletor (testado com dados reais de @paccolaepelegrini)
+- [x] Fase 2 - Agenda automatica (coletor diario 11h via Task Scheduler, publica no GitHub)
 - [x] Fase 3 - Site (visao geral + tabela de posts)
 - [x] Fase 4 - Graficos (crescimento, formato, horarios, audiencia, funil)
 - [x] Fase 5 - Planejamento (kanban + metas + conformidade OAB) - leitura
-- [ ] Fase 2 - Agenda automatica (coletor rodar sozinho 1x/dia)
-- [ ] Token de 60 dias (precisa da chave secreta do app)
+- [x] Fase 7 - Deploy (link publico no GitHub Pages)
+- [x] Token de 60 dias + renovacao automatica semanal
 - [ ] Fase 6 - Sugestoes por IA (opcional)
-- [ ] Fase 7 - Deploy (link publico)
