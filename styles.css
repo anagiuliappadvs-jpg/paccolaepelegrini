@@ -127,7 +127,7 @@ td.num, th.num { text-align: right; }
 .post-linha .info { font-size: .82rem; overflow: hidden; min-width: 0; flex: 1; }
 .post-linha .info .l { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .post-linha .eng { margin-left: auto; font-weight: 700; font-size: .95rem; text-align: right; }
-.lista-posts.ranking { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.lista-posts.ranking { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 10px; }
 .post-linha .rank { flex: none; width: 26px; text-align: center; font-weight: 800; color: var(--gold); font-size: .95rem; }
 @media (max-width: 820px) { .lista-posts.ranking { grid-template-columns: 1fr; } }
 
