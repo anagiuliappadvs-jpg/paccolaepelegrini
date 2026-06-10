@@ -289,6 +289,43 @@ function nomeFormato(m) {
   return "Foto";
 }
 
+// Melhores posts de TODOS OS TEMPOS, por interacoes (curtidas + comentarios).
+// Leve: usa so a lista de midias (sem chamada de insights por post), entao
+// cabe no limite da API mesmo com centenas de posts.
+async function buscarTopTodosTempos(qtd = 10) {
+  const r = await graphGetTudo(
+    `${IG_USER_ID}/media`,
+    {
+      fields:
+        "id,caption,media_type,media_product_type,permalink,timestamp," +
+        "like_count,comments_count,thumbnail_url,media_url",
+      limit: 50,
+    },
+    TOKEN,
+    25 // ate ~1250 posts
+  );
+  if (!r.ok) return { total: 0, top: [] };
+
+  const todas = r.data.data || [];
+  const lista = todas.map((m) => {
+    const likes = m.like_count ?? 0;
+    const comentarios = m.comments_count ?? 0;
+    return {
+      id: m.id,
+      formato: nomeFormato(m),
+      legenda: (m.caption || "").slice(0, 200),
+      permalink: m.permalink || null,
+      miniatura: m.thumbnail_url || m.media_url || null,
+      timestamp: m.timestamp || null,
+      likes,
+      comentarios,
+      interacoes: likes + comentarios,
+    };
+  });
+  lista.sort((a, b) => b.interacoes - a.interacoes);
+  return { total: todas.length, top: lista.slice(0, qtd) };
+}
+
 // --------------------------------------------------------------------------
 // 5. PROCESSAMENTO FINAL (agregacoes que o site vai mostrar)
 // --------------------------------------------------------------------------
@@ -381,6 +418,8 @@ async function main() {
   const insConta = await buscarInsightsConta();
   const demografia = await buscarDemografia();
   const posts = await buscarPosts();
+  const topTudo = await buscarTopTodosTempos(10);
+  log(`Top de todos os tempos calculado entre ${topTudo.total} posts.`);
 
   const { melhores, piores } = topEPiores(posts);
 
@@ -414,6 +453,8 @@ async function main() {
     mapaDeCalor: mapaDeCalor(posts),
     topPosts: melhores,
     piorPosts: piores,
+    topTodosTempos: topTudo.top,
+    totalPostsTudo: topTudo.total,
     demografia,
     funil: montarFunil(insConta, conta),
   };

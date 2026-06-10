@@ -60,6 +60,7 @@ let SNAP = null;
   sugestoes(snap);
   tabela(snap);
   topEPiores(snap);
+  topTodosTempos(snap);
   if (plano) planejamento(plano);
 
   $("carregando").hidden = true;
@@ -283,6 +284,24 @@ function linhaPost(p) {
     </div>
     <div class="eng">${pct(p.engajamento)}</div>
   </a>`;
+}
+
+function topTodosTempos(s) {
+  const arr = s.topTodosTempos || [];
+  $("totalTudo").textContent = s.totalPostsTudo != null ? nf.format(s.totalPostsTudo) : arr.length;
+  $("topTudo").innerHTML = arr
+    .map(
+      (p, i) => `<a class="post-linha" href="${p.permalink || "#"}" target="_blank" rel="noopener" style="text-decoration:none;color:inherit">
+      <span class="rank">${i + 1}º</span>
+      ${img(p.miniatura, "")}
+      <div class="info">
+        <div class="l">${escapar(p.legenda) || "(sem legenda)"}</div>
+        <div style="color:#6b7686">${p.formato} · ${dataBR(p.timestamp)} · ❤ ${nf.format(p.likes)} · 💬 ${nf.format(p.comentarios)}</div>
+      </div>
+      <div class="eng">${nf.format(p.interacoes)}<div style="font-size:.6rem;color:#6b7686;font-weight:400">interações</div></div>
+    </a>`
+    )
+    .join("");
 }
 
 function planejamento(plano) {
