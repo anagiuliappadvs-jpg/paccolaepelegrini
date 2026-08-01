@@ -1,20 +1,20 @@
 {
-  "atualizadoEm": "2026-07-31T14:02:27.936Z",
+  "atualizadoEm": "2026-08-01T18:34:55.893Z",
   "conta": {
     "username": "paccolaepelegrini",
     "nome": "Paccola & Pelegrini Advogados Associados",
-    "foto": "https://scontent.fbau2-1.fna.fbcdn.net/v/t51.82787-15/731158101_18230279089316302_1652449313217942352_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7d201b&_nc_ohc=yBAWjFQZadYQ7kNvwFb-LCh&_nc_oc=AdrTJhUXb4f9XbHlEmHdp1z-jSlPkwOBNYhjAMyG_j9siYInE6EIQyaf9IBExYe_0atNDNUsP7UN5NBaRvzzhJai&_nc_zt=23&_nc_ht=scontent.fbau2-1.fna&edm=AL-3X8kEAAAA&_nc_gid=5fInzIXWsuFLAgwkl8Ug8w&oh=00_AQFAuZNPMKr3CXiv2dh9uxPzcJFv5mdXmviJr8-nJPpyPw&oe=6A726C46",
+    "foto": "https://scontent.fbau2-1.fna.fbcdn.net/v/t51.82787-15/731158101_18230279089316302_1652449313217942352_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=7d201b&_nc_ohc=yBAWjFQZadYQ7kNvwHCY_yy&_nc_oc=AdpmRCrIjnxU21TcwIMtQnIolEO-fVuMgzW3i7IS2Jj0iYYh0GvbKq_6tjufXDWdvlvrE_SrfBkYiJeSv3QCVX5s&_nc_zt=23&_nc_ht=scontent.fbau2-1.fna&edm=AL-3X8kEAAAA&_nc_gid=QYtVvBpfOPwMskN62ZX19A&oh=00_AQF0E0Te8qn8PtASobkAv-kuFtWj_yZKoKTOwMGpUwpTHA&oe=6A73F606",
     "bio": "Especializado em Direito Bancário, Saúde e Trabalhista\n⭐️ 5 estrelas no Google\n🇧🇷 + 600 clientes\n📲 (14) 99181-7400\n👇🏽 Fale conosco",
-    "seguidores": 12344,
+    "seguidores": 12367,
     "seguindo": 13,
-    "totalPosts": 718
+    "totalPosts": 719
   },
   "visaoGeral": {
-    "alcancePeriodo": 1882,
-    "visitasPerfil": 123,
-    "cliquesLink": 8,
+    "alcancePeriodo": 611,
+    "visitasPerfil": 59,
+    "cliquesLink": 0,
     "postsNoPeriodo": 60,
-    "engajamentoMedio": 4.24
+    "engajamentoMedio": 4.36
   },
   "historico": [
     {
@@ -116,249 +116,271 @@
     {
       "data": "2026-07-31",
       "seguidores": 12344
+    },
+    {
+      "data": "2026-08-01",
+      "seguidores": 12367
     }
   ],
   "posts": [
+    {
+      "id": "18073696175704976",
+      "formato": "Reel",
+      "legenda": "Bate bola com advogada 💅\n\n#batebola #maríagabriela #advocacia",
+      "permalink": "https://www.instagram.com/reel/DbdiZbBhMOz/",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/759622369_18232645294316302_8725740884093708012_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ahXnwAhkmD4Q7kNvwHtYPjk&_nc_oc=AdqtXdDVx3tONbwMiOyAUFeIhMKkWIqu2fSWXYa2hHLu17dCo-IfntYxgdoGelCd_AmZTQ242BVVKxgtILBOmcXG&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGX3BsJUP6vWYjXEPEGHltOycd2hAzCfxamcxSqfHNU_6JMNawQtcGSR2lnq2h8VT8WTA4IOoWntA&oh=00_AQH0V8DXPwekCZmu7Ej_CtnabPXFVgaLRqDyEDhBxTH6kg&oe=6A7410D5",
+      "timestamp": "2026-07-31T15:00:07+0000",
+      "diaSemana": 5,
+      "hora": 12,
+      "likes": 118,
+      "comentarios": 6,
+      "salvos": 8,
+      "compartilhamentos": 33,
+      "alcance": 1865,
+      "interacoes": 168,
+      "visualizacoes": 2793,
+      "engajamento": 9.01
+    },
     {
       "id": "18014876744878384",
       "formato": "Reel",
       "legenda": "E a voz mais grave que um trombone\n \n\n#advocacia #paccolaepelegrini #homeoffice",
       "permalink": "https://www.instagram.com/reel/Dbbf8MRBdqk/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/760701341_18232545007316302_7607265626165752273_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ShpPWvX3UcsQ7kNvwGIcR54&_nc_oc=AdqZniGytHpJhDej7MDMfxfOOhnQGSU1N8IzV0dEASrBGypFZuGXlEBQgqIg_Olmamm8LXVrzhwoclLjUlEhqDLc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQFRnWA22vSHCXMcSgeVrTZUz1TLIFFFWme0P7ag7SkDFSqd2xN6YgRanZiNU1q-WG64Hax0auG7aw&oh=00_AQE1mKd0p-OBsIinmyB7T3jp23aw_fyQXBUyT2kAFi8SDg&oe=6A727557",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/760701341_18232545007316302_7607265626165752273_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ShpPWvX3UcsQ7kNvwFk0Jgr&_nc_oc=Adp_naTr986tp8Nute9Oh-UXElDztcfkjLDaUDKM9THtIP3oU9Xf_zmvYLgw9CLl1AGA_ljtNqR_6KBQFi8ILBNm&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGisZsN0Ye96zGn39adwxnYBeaJX1PaN-qOnEQltupD4SteVRNQ85UtdJ5c1ZuMOl-jCWGvyckZDg&oh=00_AQEzCpiLr7JqCHscHSrc8yLy26iYlQDNO62YHNxhN3aNYA&oe=6A73FF17",
       "timestamp": "2026-07-30T16:56:47+0000",
       "diaSemana": 4,
       "hora": 13,
-      "likes": 131,
+      "likes": 133,
       "comentarios": 9,
       "salvos": 1,
       "compartilhamentos": 18,
-      "alcance": 1796,
-      "interacoes": 162,
-      "visualizacoes": 2636,
-      "engajamento": 9.02
+      "alcance": 1870,
+      "interacoes": 164,
+      "visualizacoes": 2761,
+      "engajamento": 8.77
     },
     {
       "id": "18027911459841196",
       "formato": "Reel",
       "legenda": "A negativa do plano nem sempre é o fim da linha. Conheça seus direitos e saiba quando é possível contestar essa decisão. \n\n#planodesaúde #cirurgiareparadora #direitodasaúde",
       "permalink": "https://www.instagram.com/reel/DbY7DNrBDt0/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/758409947_18232453153316302_1325910515691484969_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vShb7e25kGQQ7kNvwFsWC9V&_nc_oc=AdpimaEDA2e-kwMWftpoOdLN0nVYTysmZ6dXiKiw4rCzBw2-JeKkSTQpu5NwmRKDrMJYHOQNJ0pXktTWX3sJd1ow&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQG9h2P1bHTRigK6pgxCzgEt56NwxCclbRVXN52DBLJYh68GYh4aCGGSzCIDOPOovRDuL9tk5TfHmA&oh=00_AQGj3CuybnToSllz4HBUrZpm6AyDz6x2nLEkMWIGA56qYQ&oe=6A726917",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/758409947_18232453153316302_1325910515691484969_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vShb7e25kGQQ7kNvwHCF5gV&_nc_oc=Adpu_s4KmCtfaceBGepDLKBFor7llD_DHcBk8qwLti2XztVGqvloKMSUvyf5zvtKjiNNmbFL4HN-zdI7ussAX22D&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQFq3SC49b1lB8suLND-1-JpheCK1reZje0lzf0aklWW4fFx_403KwxLR7xM_40QFksOp8hyzgRlTQ&oh=00_AQEtaO23X17xvafB5w-vQePA8x4v2Op_SXC_FJlP6FeUUw&oe=6A73F2D7",
       "timestamp": "2026-07-29T20:00:06+0000",
       "diaSemana": 3,
       "hora": 17,
-      "likes": 16,
+      "likes": 18,
       "comentarios": 2,
       "salvos": 0,
       "compartilhamentos": 2,
-      "alcance": 516,
-      "interacoes": 24,
-      "visualizacoes": 745,
-      "engajamento": 4.65
+      "alcance": 531,
+      "interacoes": 26,
+      "visualizacoes": 766,
+      "engajamento": 4.9
     },
     {
       "id": "18203382616362243",
       "formato": "Reel",
       "legenda": "Recebeu uma execução bancária? Ainda pode existir solução, mas o tempo para agir é curto. \n\n#execucaobancaria #direitobancario #advocacia",
       "permalink": "https://www.instagram.com/reel/DbWaQhehnIf/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/758350245_18232352641316302_6256229857152295986_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=EufsVIChSMoQ7kNvwFADWUe&_nc_oc=AdppU99Iw9_EBATetmUKfFN1yuDlVjomCBrqdkGrgZ1Fw9qVn1u4qzkI3BW6XxLywnv3oO040HkWOzKLNJ1QhjgJ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQEBRkbyMUEYIOVU3LyzU58yuKX-SmOLM44EWBF50mVqJME-sJxDKrSZjY4V74VqYKYHhYzM74at7Q&oh=00_AQFp7Do9pM_rZmOx9lMciKqqet7zn93nJ8voY-qqk6EFiQ&oe=6A7285B5",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/758350245_18232352641316302_6256229857152295986_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=EufsVIChSMoQ7kNvwHE_QUr&_nc_oc=Adq9OfsPyNdnWqAmcufA13avH86an93pzd94RhjBqF-d4-4DAQLPcCN_jh72oVILYG69MkNXBx31jaguRLsXgi-c&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQFc5aLFi_7nAFOc21Cyq7DYs1yNaU3QSDOL17pYpn1Lx8wlrbGlhIiZOSmohvNdY6F_TM_dNIYLDw&oh=00_AQH93YCucbKu3tdw5vx9nd9RGs3N3NsWBx2xeAjcIweLVw&oe=6A740F75",
       "timestamp": "2026-07-28T20:36:09+0000",
       "diaSemana": 2,
       "hora": 17,
-      "likes": 20,
+      "likes": 22,
       "comentarios": 0,
       "salvos": 1,
       "compartilhamentos": 4,
-      "alcance": 726,
-      "interacoes": 27,
-      "visualizacoes": 1010,
-      "engajamento": 3.72
+      "alcance": 740,
+      "interacoes": 29,
+      "visualizacoes": 1033,
+      "engajamento": 3.92
     },
     {
       "id": "17977940193027086",
       "formato": "Reel",
       "legenda": "Entramos pra trend 😅 \n\n#callmemaybe #trending #advocacia",
       "permalink": "https://www.instagram.com/reel/DbT8sGwhp5r/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/757969878_18232353514316302_3930325773916721941_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=K4OCxYlNPusQ7kNvwH7IPW3&_nc_oc=AdqHFzZ0DEGuXTQ59wd0WfTif_FwD72z2sRyvWhlswgP_VxU05guyyLc8W901smijVH4ZTGrXR2xDgshxL5bKOey&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQGQVOTzjbUhF211wdwIafBD9yjPZH3zmTdw33sSFIMYIGTClmeWbPTKq6LbdsgQCOKCxAXoWdxBJA&oh=00_AQEpLp7lokAt35OgsGqxie1Nl01RcFmx2vMITH8bvBYghQ&oe=6A7279CB",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/757969878_18232353514316302_3930325773916721941_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=K4OCxYlNPusQ7kNvwEZx4ZI&_nc_oc=AdqT3xwuzja48We5QTmihUOeaKczi-Bm3ORh5ivHCZOdseEHgm6YZ0FLOS3C_MN3pN-lckI8fDPOlMs5cHImvwp1&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQExpBvHF6dtZOXSpA3BSrsLaOTsSStV5L1Jv_HG8wixp9M2AFaPiGqEcgyZPLTHJFUCkj11WkKx0Q&oh=00_AQFuD9-81NFmgrL9Has4jWhqnUogUDlHX2MSqAIsNEAMGg&oe=6A74038B",
       "timestamp": "2026-07-27T21:38:49+0000",
       "diaSemana": 1,
       "hora": 18,
-      "likes": 43,
+      "likes": 44,
       "comentarios": 1,
       "salvos": 0,
       "compartilhamentos": 7,
-      "alcance": 1977,
-      "interacoes": 53,
-      "visualizacoes": 3706,
-      "engajamento": 2.68
+      "alcance": 1985,
+      "interacoes": 54,
+      "visualizacoes": 3745,
+      "engajamento": 2.72
     },
     {
       "id": "17971645626022780",
       "formato": "Reel",
       "legenda": "Depois da apreensão do veículo, o pior erro é agir no desespero ou esperar demais.\n\n#buscaeapreensao #veiculoapreendido #direitobancario",
       "permalink": "https://www.instagram.com/reel/DbLuk7ARzQe/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/741735525_18231882505316302_2341586380854229717_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kAodUKCwecoQ7kNvwEyzjPk&_nc_oc=AdoXDrhriBZQhvlV4Rbu1wg4DlAXjKCyVbH0j4p9-ZC_AasM8miAO1zdAlktjEMo5cPqiQfvd7tuWQGtD9LPcEOq&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQGTFrPqBIphLK8-hTOnplhJaSg0vlEx3tDBVZTFgUdsb2F7ByGL35Qk0Ebx3ndv153BDcISObUNyg&oh=00_AQHLVRHWQJ9zeu3TlicYjYRmhyGba20OAj4x-1F0Yp-FXw&oe=6A7289E1",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/741735525_18231882505316302_2341586380854229717_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=WMY457eB4NIQ7kNvwGay5Zi&_nc_oc=Adof2KV-5wBh-_JN0bib23SGtG9BP8NYpGeLc8jcXIkt0pDroYnaz10hpErE0OGhKCRCqzkl7xDcghj2wI2Oga30&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQH-UqDDY_X_O89a1bl8fOSh8hnKSLgLrpzEA5rZ2UMU5LNWN9Dfgg0bLAqz3aQROSqZs0Tvo6a4Sw&oh=00_AQFqO09SV_6cPp7iDDZ_IUs2B_ML_SIcl2LIk0nCHxQPAg&oe=6A7413A1",
       "timestamp": "2026-07-24T17:01:42+0000",
       "diaSemana": 5,
       "hora": 14,
-      "likes": 12,
+      "likes": 13,
       "comentarios": 0,
       "salvos": 3,
       "compartilhamentos": 2,
-      "alcance": 682,
-      "interacoes": 19,
-      "visualizacoes": 974,
-      "engajamento": 2.79
+      "alcance": 686,
+      "interacoes": 20,
+      "visualizacoes": 979,
+      "engajamento": 2.92
     },
     {
       "id": "18122145697764428",
       "formato": "Reel",
       "legenda": "Tem horas que parece que a gente tá falando outra língua kkkkkkk",
       "permalink": "https://www.instagram.com/reel/DbJhFFABCIN/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/754068843_18231792052316302_8424665391091538142_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LmHRTEAzfx4Q7kNvwH3nWAi&_nc_oc=AdqiFJjD2COU_UTw5kpr1ZbLo6_mP-0pX343Z4COVjS25tDOtL2MyENB-olFKe9eGOxGk_i3LqVtiEMR2U-hLxks&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQGmLioTCmYV2ZKK1UaL-fB3mSmaxvizuzLlfX02J9ugtS3Nf-QPX2CG_YVzOEfn-u7ZZP5mrgilxw&oh=00_AQFrBOuYS6rSd7gE2IwbaXRpIPh_DONa2NAd_71VpEcPIQ&oe=6A72908F",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/754068843_18231792052316302_8424665391091538142_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2r2RB9OD9jAQ7kNvwF07MPT&_nc_oc=Adol13Q07mWNUzB9uDi5vvaa-0w1fnP6xWJvSnXdiJydnttMfwfv0NTStjjGl9Rl8XSdxX1JjfArQzcpFxzRDjia&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHfaqIRE4meZ56hnt7-HrHO1AvsfXiAHwLiX9ih6qEJS1t2luLvn72gwGibRK-T4KipDxoAbteGcQ&oh=00_AQFlIYI5oqrgx4IDAa9jncBSo0hUtwDDpNoRXhuBNHzLZQ&oe=6A741A4F",
       "timestamp": "2026-07-23T20:25:31+0000",
       "diaSemana": 4,
       "hora": 17,
-      "likes": 121,
+      "likes": 124,
       "comentarios": 10,
       "salvos": 8,
       "compartilhamentos": 20,
-      "alcance": 2219,
-      "interacoes": 164,
-      "visualizacoes": 3164,
-      "engajamento": 7.39
+      "alcance": 2255,
+      "interacoes": 167,
+      "visualizacoes": 3211,
+      "engajamento": 7.41
     },
     {
       "id": "18079363124664107",
       "formato": "Reel",
       "legenda": "Empréstimo PJ pode virar uma armadilha quando a empresa não entende o que está sendo cobrado.\n\n#emprestimopj #direitobancario #empresa",
       "permalink": "https://www.instagram.com/reel/DbG5j3PBWKS/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/753247691_18231746638316302_625872417688546000_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=g-Xm2sPMWIwQ7kNvwFP7buc&_nc_oc=AdqwBa0GTawmSBD6h-Vy5aQVZVIu6TrRc3IU-JTNpFHQx4pBKPTFWH0Bp4IwYAh-wfGjxV22K0Yo_69IXgxayELt&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQGA8QULQWN8SsuxAajh-RspHVhNE2q0xwm9XS5VLQBMuZpsTnjJ-4bcfefCWoDhpp8ISFi5xQgxPw&oh=00_AQE2RVxXE26aTR_cmuUOdUtUm7MEBFLS6QzN1sWAydZryA&oe=6A728F69",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/753247691_18231746638316302_625872417688546000_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=xTKpOHv7TV0Q7kNvwFQfUYO&_nc_oc=Adp_ueD4kezx_u7yMaCLEID7TDFEYQEBDU62Fh_tsWR952kO6_fZeU16EYLUXjJNeOjdgFHBxzXIT8TEXt2kf8XU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGrzIttCnuokCvo9cxm6EsMuI7G1XbIaxQz2v1gMaz_92Eoh5vWOfty4P7qe9Vs9ha9Z--HujbuHA&oh=00_AQEDMoIGZWoZumQdGkU61UE61h_fdP8yuQjmrwy9iQggSw&oe=6A741929",
       "timestamp": "2026-07-22T20:00:05+0000",
       "diaSemana": 3,
       "hora": 17,
-      "likes": 22,
+      "likes": 23,
       "comentarios": 0,
       "salvos": 0,
       "compartilhamentos": 1,
-      "alcance": 397,
-      "interacoes": 25,
-      "visualizacoes": 501,
-      "engajamento": 6.3
+      "alcance": 398,
+      "interacoes": 26,
+      "visualizacoes": 503,
+      "engajamento": 6.53
     },
     {
       "id": "18184265470397186",
       "formato": "Reel",
       "legenda": "Você quer uma resposta séria?",
       "permalink": "https://www.instagram.com/reel/DbERT3vBoxC/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/753247687_18231543586316302_2823089607261836162_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ZQ9QrI8wascQ7kNvwExbQy8&_nc_oc=AdorfG5kiUkw6FH4iomQIEWo5g5MCRqyjbrKmw0jJUVRFcmLodth51fi_1d3sZ5oagb55dGImhVqZrFcJvuFnQ3u&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHn0_uVpeYbmlKrXE6mTxA4Sa5KD6aKTxV7xlNCW8i6HupD6LRPGT94CuN4TV797UIoIZXEby9qew&oh=00_AQEUFYwyP205tZ-CtUbY39dLhyZ5vobK3SaltMhm6Masjg&oe=6A728738",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/753247687_18231543586316302_2823089607261836162_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=QgmHgXh0RyIQ7kNvwGolArs&_nc_oc=AdrnCSX4SwT7KQy9gCfBF4hCMKF_eFHvI67UblzALaJMenXzGGeTJSKslKRPV38utVt9C1ES7xdIgtMG-6DHDvEG&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQFDoj2MgRwZ_PvMlSqUowqUkhu0H7F8kQImHNG7iItrunON6n0SOEEwHnYrogsvXm6y33AfZ1Y6fw&oh=00_AQEhlvamX7N1Ju5Kf9Ef7fgUb0-zI6LiXjpKeq5Y6A7MRA&oe=6A7410F8",
       "timestamp": "2026-07-21T19:30:04+0000",
       "diaSemana": 2,
       "hora": 16,
-      "likes": 41,
+      "likes": 42,
       "comentarios": 0,
       "salvos": 0,
       "compartilhamentos": 3,
-      "alcance": 1900,
-      "interacoes": 48,
-      "visualizacoes": 3048,
-      "engajamento": 2.53
+      "alcance": 1905,
+      "interacoes": 49,
+      "visualizacoes": 3053,
+      "engajamento": 2.57
     },
     {
       "id": "18118674370669022",
       "formato": "Reel",
       "legenda": "Não temos um minuto de paz \n\n#advocacia #paccolaepelegrini",
       "permalink": "https://www.instagram.com/reel/DbBwguEB4Ds/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/751348705_18231451438316302_7943059637104158414_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DTK5IkTf6yQQ7kNvwFQs0hE&_nc_oc=AdqfB0Ito_sml9jrheyXLXMpud3IQd_FSDCmu1rybwzV5rs74YRQHQbgpbS4lELPlQ50f7xEEaqA1vWUc4UVOBks&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQGdg82HeovD0Czecqq_uXjYVnTK2mhi-R0GJmzYXOF9pSRlbs9PBN5jWf2mRb9ExP-G6_x3-fs6XA&oh=00_AQHI6-QezGKuJE1WQmFO3Cs8yCkNTl6Fo1AWS-7DQid5AQ&oe=6A728DE5",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/751348705_18231451438316302_7943059637104158414_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DTK5IkTf6yQQ7kNvwESHYVv&_nc_oc=AdqNxuZVovQIt6ke085l_r7AWYdTuModV_fM990-yMFvrAmbku9vl0BL9Ul3slzS6uX34BwWXCW5AG71tc7DMd9r&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHK8TSjZlsFWJ_f51gRJfYJVV1pP_6XI36ZIwr7Fxq4mv6KGFR_pQPFmaSJxaFHmzmkTnERdakFJA&oh=00_AQEk1jJknuolCgewmbifia7w7QeUrdZ2L1lDabU1XbbRZw&oe=6A7417A5",
       "timestamp": "2026-07-20T20:05:08+0000",
       "diaSemana": 1,
       "hora": 17,
-      "likes": 81,
+      "likes": 82,
       "comentarios": 0,
       "salvos": 2,
       "compartilhamentos": 11,
-      "alcance": 2101,
-      "interacoes": 97,
-      "visualizacoes": 3183,
-      "engajamento": 4.62
+      "alcance": 2107,
+      "interacoes": 98,
+      "visualizacoes": 3194,
+      "engajamento": 4.65
     },
     {
       "id": "18114792961902242",
       "formato": "Reel",
       "legenda": "A dívida era da empresa… mas tentaram cobrar no seu CPF?\n\nO STJ reforçou que a falta de bens da empresa, sozinha, não autoriza atingir automaticamente o patrimônio do sócio.\n\nCada caso precisa de análise jurídica e defesa estratégica.\n\nEntre em contato e entenda seus direitos.\n\n#",
       "permalink": "https://www.instagram.com/reel/Da5fkRXxj9I/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/747819898_18231056575316302_5800240088014126836_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=haTihfjiSZEQ7kNvwGwDXjZ&_nc_oc=AdrE1j-IR_HZcwi0J8iH8aF9RdbDWhl6bDg_r03eHS9HX8eHyQuqwdk69Sh1UaZy5Qj2VNz-onOvlzsxygpcYaTk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQFz-TTehRW2UW_hTcr5PM-HptL6OTBklDSP-0LdDxaWzIC95lmszd3bWAMCV1-FFR-OjJs-JBGpmA&oh=00_AQGXqC9OmarFNu-wBThMzcvXIju4K244f8Q6Ekf-qEs7qg&oe=6A72880E",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/747819898_18231056575316302_5800240088014126836_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=haTihfjiSZEQ7kNvwGE6hKX&_nc_oc=AdqaAaAeTZSHupp02yprGpEY2pjROk-7jI0xOi3H52N_Y3d9DMgTOdsuoFczS2vctngJk-3Xyzfx35dqlc-fY-GE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGf9U45X6Iap4mHzNzq7jrIh9YsQkt3LD8FyeqCrwTK_avP-shF336ylaWLftXSRApd7vZYBx7Qog&oh=00_AQGGhUI9J2dn5ex3PuwKh88hrVXTaL0eRaR1ycpb7DB9Ow&oe=6A7411CE",
       "timestamp": "2026-07-17T15:04:32+0000",
       "diaSemana": 5,
       "hora": 12,
-      "likes": 17,
+      "likes": 18,
       "comentarios": 0,
       "salvos": 1,
       "compartilhamentos": 2,
-      "alcance": 611,
-      "interacoes": 24,
-      "visualizacoes": 795,
-      "engajamento": 3.93
+      "alcance": 612,
+      "interacoes": 25,
+      "visualizacoes": 796,
+      "engajamento": 4.08
     },
     {
       "id": "18096814586600872",
       "formato": "Reel",
       "legenda": "Se um medicamento essencial para o seu tratamento foi negado, não aceite a resposta sem antes entender se essa negativa pode ser questionada.\n\n#planodesaude #direitodopaciente #medicamentoaltocusto",
       "permalink": "https://www.instagram.com/reel/Da3fkL9hxCB/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/748232321_18230969878316302_3517435627795358835_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=E0c8bWBbE1YQ7kNvwFizRd4&_nc_oc=Adrm5d2dsWp_pGE753PMvOPtQDGxCWAoW_bbWi9JVED97LLMbdYloxQuAA-5o3NCnRWYyM6Bl6Jf-wLOyiVWGs0j&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQECgOV0v7a-2YcE_DoeyT3paY7Dy1P6DlZeeaUW-SIbicbHj7fTNyX-lZs-kXkcDv_VCXyQI3nHcQ&oh=00_AQECZ6lx7G_dsaLO-jQCWHXTUDJ6pOyvh2Ck-aLzQ6KFsw&oe=6A7261F2",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/748232321_18230969878316302_3517435627795358835_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RUH0l9FqOJAQ7kNvwFuScyW&_nc_oc=AdrW0C3N2S2oyYfSMu1DslrGiE2vEoUAKsOjvNOUpXDYPimW4RFdZwjTidsjWmVws6fJjqrifMGMaYjc4CnU-K9u&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQEL4V7YceGxutdRn2LDjwKbvyYT0OzwENE2KvRycOvtI67_rDIJHdNtnCm151KaPD_zDGQEhWeScw&oh=00_AQFlAB9moATI-Jk__ojCzDPCgt9jmhEwgV7C8VTaHat2Jg&oe=6A7423F2",
       "timestamp": "2026-07-16T20:25:08+0000",
       "diaSemana": 4,
       "hora": 17,
-      "likes": 20,
+      "likes": 21,
       "comentarios": 1,
       "salvos": 0,
       "compartilhamentos": 3,
-      "alcance": 710,
-      "interacoes": 25,
-      "visualizacoes": 966,
-      "engajamento": 3.52
+      "alcance": 711,
+      "interacoes": 26,
+      "visualizacoes": 967,
+      "engajamento": 3.66
     },
     {
       "id": "18052818137782889",
       "formato": "Reel",
       "legenda": "às vezes a experiência vem de anos… ou de responder a mesma pergunta 50 vezes por dia. 😂\n\n#trabalho #humor #escritorio",
       "permalink": "https://www.instagram.com/reel/Da04A4qBhBE/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/748552718_18230833342316302_5194955506119227547_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=W-MNusy4obUQ7kNvwGTGXV3&_nc_oc=AdpyO_K7XiOqOX_RImAxwAknvkaKr3aA3-x8nrgq50Vp24kHeS4NtRSk-mXpT8OrifOvW-2GVPpOgRe8nGlFKgAH&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHJK9rMG-4UWhHmSvu_8v6Tl1MKytd__ECTL0wFynfVPVcKuc3pjZ7yuG93TopC75NuCtu5iEx04A&oh=00_AQFJoP-uVeZOAZPn1EOY1qbJvTL7ui20RMWZ4ISc0BOBXg&oe=6A7294AE",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/748552718_18230833342316302_5194955506119227547_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=HXow6E28qMUQ7kNvwEjrEqx&_nc_oc=AdoUsDQdpI1mZmSyUXAIpPX1lQNkOgIPfwr0fATNgXJ7wnllALYfHBMIPDdsqonAp_hXPgadak-YNTmlLn1bUfWK&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQE3_UgL3oDqHBqTmn1uh_n14ios6FF1hQ-B9dSruPZWt9ZMx0BqR5R-UtQZUGLi5lyNuyw1VpLY2g&oh=00_AQHuBFWGzHw2jGalPUE0AKpplkhO_2HpyTYUmylZEjrJnA&oe=6A741E6E",
       "timestamp": "2026-07-15T20:00:06+0000",
       "diaSemana": 3,
       "hora": 17,
-      "likes": 105,
+      "likes": 106,
       "comentarios": 4,
       "salvos": 8,
-      "compartilhamentos": 87,
-      "alcance": 2535,
-      "interacoes": 207,
-      "visualizacoes": 3468,
-      "engajamento": 8.17
+      "compartilhamentos": 88,
+      "alcance": 2549,
+      "interacoes": 209,
+      "visualizacoes": 3490,
+      "engajamento": 8.2
     },
     {
       "id": "18095855660358813",
       "formato": "Reel",
       "legenda": "Se um medicamento essencial para o seu tratamento foi negado, não aceite a resposta sem antes entender se essa negativa pode ser questionada.\n #direitodopaciente #medicamentoaltocusto",
       "permalink": "https://www.instagram.com/reel/DayU0XMhKML/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/746984309_18230742664316302_5522048612491319719_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=VaHcXk1XYmgQ7kNvwERt6ZJ&_nc_oc=AdrcnKanm2xSAAxksAm8lJ18b43v4uiILxfsfoxh_wmPv0N0z-1S5KfnUBmG6E-8MQZQlfGT0Ekbx4fDVRDIAp3o&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQF7Lry-jjuheRbWqQszfnxjFcLdfHELuYO3D3Dmz2FZkwEsQQ2tkMHTjo-Wf1VILoHE1gEUTq-YFQ&oh=00_AQE-cE0be4HNmOqIviRYI-6bqnY5NyhjruSmLE6z2-5a5g&oe=6A72694E",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/746984309_18230742664316302_5522048612491319719_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=VaHcXk1XYmgQ7kNvwFSbh2V&_nc_oc=AdpsJzcZNIuh8GqABKZJuQ4oGHiSiuoptBeLYgmzq2MS5OftemhAo5W4Q6iTbwDBYJLhjoEUlS-qrM-nHLSCc9XW&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHxdWyGlZrw52gG8zJ6V4K8k_dKjuD-zBClMlnycx-I-6EEfHN8gb2ZMdqrRZU6J4ZDApJdpUGtkw&oh=00_AQEWdqwZLlZXseAIK8bJHmffqDAMSBvNArg0TVE3GA_BrQ&oe=6A73F30E",
       "timestamp": "2026-07-14T20:20:12+0000",
       "diaSemana": 2,
       "hora": 17,
-      "likes": 12,
+      "likes": 13,
       "comentarios": 1,
       "salvos": 1,
       "compartilhamentos": 1,
-      "alcance": 762,
-      "interacoes": 18,
-      "visualizacoes": 1049,
-      "engajamento": 2.36
+      "alcance": 763,
+      "interacoes": 19,
+      "visualizacoes": 1050,
+      "engajamento": 2.49
     },
     {
       "id": "18121922305687153",
       "formato": "Reel",
       "legenda": "Cirurgia reparadora pode envolver saúde, dor, limitação e qualidade de vida. A negativa do plano precisa ser analisada com cuidado.\n\n#planodesaude #cirurgiareparadora #direitodopaciente",
       "permalink": "https://www.instagram.com/reel/DavuYfYh6N-/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/747561471_1052919090504609_3909665746865629873_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=YKZggKnTwYYQ7kNvwEtzQaH&_nc_oc=AdpIIFcbPCvgmzryrA9Ngs6CtsEcJsvIG37N5qAbZgQoekychqvzv6xWRYVqPlYPhyPyExOr6RuCi3wF6ZA_TYRU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHZmMil-kIBpJyMxsUqTWm4nSEhC0Y14eyhgnQKrqT7rfnP-X6294Yb9lrmWDY_eeiSQczltZC2TQ&oh=00_AQHy4OgmkYlzw7VDttHK57s_jrCk1qy7gM-Fq6dFvTu5qw&oe=6A7294C6",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/747561471_1052919090504609_3909665746865629873_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=YKZggKnTwYYQ7kNvwHw1sVj&_nc_oc=Adpa3UpvAiWYr7TpMeGLs-pmkNXjguLzvrZwE1nChixSFLwoG45iMTwXQ5ctWrKDfOFvxbY_CRfFdhQ6TAitgJnw&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGchNINOZj-ybFgMUaMM0AORSY9cP_-kFaTApPS73qiHwe8zKuMR-s-XUgOebDEntaQgLne6KXErQ&oh=00_AQGwagkwpPsJt4rQX67lh2OnI_x9eZXUgpkuOMtD4VB4mw&oe=6A741E86",
       "timestamp": "2026-07-13T20:00:06+0000",
       "diaSemana": 1,
       "hora": 17,
@@ -366,17 +388,17 @@
       "comentarios": 0,
       "salvos": 1,
       "compartilhamentos": 1,
-      "alcance": 621,
+      "alcance": 623,
       "interacoes": 24,
-      "visualizacoes": 911,
-      "engajamento": 3.86
+      "visualizacoes": 912,
+      "engajamento": 3.85
     },
     {
       "id": "18085605011171285",
       "formato": "Reel",
       "legenda": "e quando menos esperar… \n\n#buscaeapreensão #advogado #paccolaepelegrini",
       "permalink": "https://www.instagram.com/reel/DanvKbzRJKL/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/729674431_18230263933316302_3174813823529003993_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=q1PjOrXMD24Q7kNvwGfEtxb&_nc_oc=AdpEyjsVzQXZ6nEW6-UiN1O6NXqYT6Nbvh5990zyXnlOnWkpwAzUzDOLUJoWtErDxpeAVoTtg5RlZxkjJMLhXaxA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQGkU6Ug06A8Iey0YO6sVdAM_w33QcxUnkc9K7_gKx7uCX9VBepCgrqEbRAVRYjIiEFg6x9RMjX9SA&oh=00_AQHVSETis0-2yI0Av4XVknbGx6fl-rJnwnic-kR5ON25XQ&oe=6A726E07",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/729674431_18230263933316302_3174813823529003993_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=q1PjOrXMD24Q7kNvwGu9Ve0&_nc_oc=AdoekeGxjCCtc2kT8N_p5Dtv8gsNPaTEZMyaHPVBb4rR6EYtPSjZNAZemQdX0mF-LtL5xJvr5qNDWZTIFxM0jDCU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQFyd3wobl1fcB4KBXDCltOQR8igipxRFzbQo_BP_TjBjjMofi7whRb3LwUWRWem5fAsMHNgHLFBEw&oh=00_AQG5Z-twx-yReVpoo6eqV0NkNYVYIkCGnr_DFEZHMWs5AA&oe=6A73F7C7",
       "timestamp": "2026-07-10T17:33:58+0000",
       "diaSemana": 5,
       "hora": 14,
@@ -384,9 +406,9 @@
       "comentarios": 1,
       "salvos": 2,
       "compartilhamentos": 1,
-      "alcance": 1707,
+      "alcance": 1709,
       "interacoes": 53,
-      "visualizacoes": 2356,
+      "visualizacoes": 2357,
       "engajamento": 3.1
     },
     {
@@ -394,7 +416,7 @@
       "formato": "Reel",
       "legenda": "Dívida de cartão pode crescer rápido demais. Antes de aceitar qualquer acordo, entenda o que realmente está sendo cobrado.\n\n#cartãodecrédito #direitobancario #dívidabancária",
       "permalink": "https://www.instagram.com/reel/DalbLkVhNVQ/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/744042790_18230180044316302_6386719953728938231_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=iHhVMc-6_IEQ7kNvwHz2B8P&_nc_oc=AdqRrnSNLA9RCdPsqgUBM868aAnIRsLl9fyh84ZHsIE-eJW8k-rCi06UTcfglapLzfGg4oSTTlzOmKnqINbrc_lA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQFYbm_EPjoInqM4XeFp6-mw7rmIp2DgDgMCQF2dOFMVjjcPpFdJ_rCh7ZskicDJoOlL7OCWs052Fw&oh=00_AQFkAmgZwHZQgoacAnZSYyLb5pOtYSZa0xWC9WixD0YlRA&oe=6A727893",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/744042790_18230180044316302_6386719953728938231_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=SfKQJfGAUxYQ7kNvwEXjv8r&_nc_oc=AdpFJAdRW-tckl-Go5U--MK2_8doPOlEVbuRrAbgG7aDLO_mqA6I9nGl1atoSPfhVR32m4Uh_tcwYrVH4QsrhsQU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQFAvihNvKJZsYV6kzu6GZqV-NUHPbx1542voGZ1WxUdfVAjeBSEeAzKuuKyAxhiJHUIOf48TRn_Jg&oh=00_AQEjPGYyp3TFXIez-aHhJcypnGYtG5SNO3ggkZ2KNXz3uQ&oe=6A740253",
       "timestamp": "2026-07-09T20:00:12+0000",
       "diaSemana": 4,
       "hora": 17,
@@ -404,7 +426,7 @@
       "compartilhamentos": 0,
       "alcance": 540,
       "interacoes": 31,
-      "visualizacoes": 712,
+      "visualizacoes": 713,
       "engajamento": 5.74
     },
     {
@@ -412,97 +434,97 @@
       "formato": "Reel",
       "legenda": "Aí eu disse oxentee NA MESMA HORA 😂 \n\n#advocacia #paccolaepelegrini",
       "permalink": "https://www.instagram.com/reel/Dai2bHhhIfO/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/741727211_18230050441316302_4354327014596394204_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=yffd_2QLbmMQ7kNvwFF6PqW&_nc_oc=AdoWYfF-N6yiRWydNixZySu1vaB3PXP-gLswGXHy1n6xV7tBgFS1rGf7zNHkYKXnOlHwZI9bIt2sI4kdWTpflWJk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQGDCjbbpLOYAMqh9rTAFaH9D24H-bJwmDdKfeB_cy5r1Ph6kYC55Q-AAz5KFLm-X3fmpFZDiptJtA&oh=00_AQFx_OytinIEJtNmXN_cEk2D0jpr7BHLQe31mLI0i63j5w&oe=6A726B77",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/741727211_18230050441316302_4354327014596394204_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=yffd_2QLbmMQ7kNvwHCMh1U&_nc_oc=AdpRcOHZtPrkQyMF3Ni52prW-owsDWE7_y2igDm30g-GhK8bM88RSuKs4vDEvInvk_P_TuWA5oLlnYxxfuKarF91&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGDP3EN19gxWrleKEX4m9W2FEfcQ4_ZyA6lkQQhYam6g37A9VqJgbnX04r8l5P7xMF-hBL32jC-Zg&oh=00_AQFQvZ4FpWcx-Zrx5sax9WX89w0LHyVvdb8m-e2FPUfxAg&oe=6A73F537",
       "timestamp": "2026-07-08T20:00:11+0000",
       "diaSemana": 3,
       "hora": 17,
-      "likes": 90,
+      "likes": 91,
       "comentarios": 5,
       "salvos": 2,
       "compartilhamentos": 8,
-      "alcance": 2009,
-      "interacoes": 112,
-      "visualizacoes": 3896,
-      "engajamento": 5.57
+      "alcance": 2011,
+      "interacoes": 113,
+      "visualizacoes": 3899,
+      "engajamento": 5.62
     },
     {
       "id": "18051950465539893",
       "formato": "Foto",
       "legenda": "Nossos números oficiais de atendimento são:\n\n(14) 99181-7400\n(14) 99910-0554\n(14) 99133-3863\n(14) 99606-7091\n(14) 99837-7172",
       "permalink": "https://www.instagram.com/p/Daif3XehQkd/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/741636265_18230043997316302_2099838485426044449_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=vpYX0vTihAwQ7kNvwHh3beA&_nc_oc=AdpDK3bX_qpK33RZxtdbUq_H4Xb8LzI1fzHr9IEXkLKJR2xQOUtU0yj4RxcKQ3L_jHG9VNCFADvl-T_pg9D8yJcF&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&oh=00_AQF7UPOmXWz9LL6o47R5tkUUyaWG5yBKTGmRs60kt4cg4w&oe=6A729517",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/741636265_18230043997316302_2099838485426044449_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=vpYX0vTihAwQ7kNvwGJZfZ3&_nc_oc=AdpjxIbi7adRHFcAtym6hHHi9TlmW0Jg-zE3e97rAszQYw7k32MdINgl4R8P7QkE4SK4YKF-cElnuRqLsU0uxGDP&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&oh=00_AQGEW8fJwQzJ06buNyfvzNahooMJu0wos6T9Zhzq2tvJhA&oe=6A741ED7",
       "timestamp": "2026-07-08T16:47:23+0000",
       "diaSemana": 3,
       "hora": 13,
-      "likes": 13,
+      "likes": 14,
       "comentarios": 0,
       "salvos": 2,
       "compartilhamentos": 4,
-      "alcance": 770,
-      "interacoes": 23,
+      "alcance": 775,
+      "interacoes": 24,
       "visualizacoes": null,
-      "engajamento": 2.99
+      "engajamento": 3.1
     },
     {
       "id": "18027714584830998",
       "formato": "Reel",
       "legenda": "Passaram do limite esse pessoal viu 😂\n#advocacia",
       "permalink": "https://www.instagram.com/reel/DagTUJ0BDe0/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/741806416_18229954708316302_7269244551184409076_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=WoiA2QfC7LQQ7kNvwEGY7sZ&_nc_oc=Adq9N0LSHmFbRSdD96HGyErZuDXsFoBZgvGQKWuVrEcrm3vO4870MPe1Fw9T7FZNBrQkZNzY6ZpJn-F2aPe3eSlW&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQH9JIQzL_HOYCAw4ADr6jU14gDE5lhOizjTsPNtJ5wtUY7m-0hNyzTqGTcg3o4gx6HCJ36s6FCkmQ&oh=00_AQF_OZ6crHYR9zkOwnOWCpgRNwQDpCKLE7NFxmvVg5Urqg&oe=6A728EC6",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/741806416_18229954708316302_7269244551184409076_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=WoiA2QfC7LQQ7kNvwEuC12t&_nc_oc=AdrWZfpghqNKW0LTpqm5iIs_SSm5n_gqppEQJpWNpwoi8JXZqB9MAmMHC48EjEufXVGYrPZbVFjARWbK0riNkl4g&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHPLhstWg7KJBEiyQWaVHTmVviwkm8uTW55-xiDsAz5DsrvbYSRasxgqCj1zQYZ3_oxC4Fb-SDUqw&oh=00_AQEWNlA2t8CYnQctSlWC7I4PHboZ7Mm2aQVRGl7zqGR1dA&oe=6A741886",
       "timestamp": "2026-07-07T20:15:11+0000",
       "diaSemana": 2,
       "hora": 17,
-      "likes": 110,
+      "likes": 111,
       "comentarios": 12,
       "salvos": 3,
       "compartilhamentos": 4,
       "alcance": 2118,
-      "interacoes": 130,
-      "visualizacoes": 3109,
-      "engajamento": 6.14
+      "interacoes": 131,
+      "visualizacoes": 3110,
+      "engajamento": 6.19
     },
     {
       "id": "18084221192536912",
       "formato": "Reel",
       "legenda": "Seu financiamento de veículo parece que nunca diminui? Talvez o problema não esteja só no valor da parcela, mas no contrato.\n\n#financiamentodeveiculo #direitobancario #revisaocontratual",
       "permalink": "https://www.instagram.com/reel/Dads0XJBL2R/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/753150537_18231746770316302_9096558388269224579_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Mjh9eNfVosgQ7kNvwGuqoAo&_nc_oc=AdqbYyx7xcUHjfi-GKQusbSo5Vuyy_mmC86YgEdRpBVmxa8kqN2xcCuYAhomQUMCmrM8rURKsNoJ7T68gIkbw5-_&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQF_z2V--cJfb9aJLgk0_AnNmiqroOOvyabQYb2zKQ4S5KzVNdI6-F1cH3dGok0JHl60qGuSDP6pqQ&oh=00_AQEqWlpCgi711lexNLYZan1xWltJt5tAdDVJhz0_WwbdLA&oe=6A7285E7",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/753150537_18231746770316302_9096558388269224579_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5S0nQcxwbTIQ7kNvwEWs2LL&_nc_oc=AdpkOVdRbwpFF8x0MqgKTOSVmqeUDzfgrhzwSoIO4foqPbhxXH3FvlTB1yqdfKaaQap38aS2iw8-xPOHg9ZEn8hB&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGwGI5xxMMPkah4nBk4Q5qn4i2oRd_bsGhUaNhxAmyb1vGNfqg6n8cVIkUM_KeGyKFIGg3aJ8_MoA&oh=00_AQEPAvkbwC4WItkuQLBWkQLi3taUx_UvA4rflME2lbxrQg&oe=6A740FA7",
       "timestamp": "2026-07-06T20:00:13+0000",
       "diaSemana": 1,
       "hora": 17,
-      "likes": 14,
+      "likes": 15,
       "comentarios": 0,
       "salvos": 2,
       "compartilhamentos": 5,
-      "alcance": 717,
-      "interacoes": 25,
-      "visualizacoes": 1003,
-      "engajamento": 3.49
+      "alcance": 719,
+      "interacoes": 26,
+      "visualizacoes": 1004,
+      "engajamento": 3.62
     },
     {
       "id": "17904270429459437",
       "formato": "Reel",
       "legenda": "Vamos pensar! 😅 \n\n#advocacia #chefe #equipe",
       "permalink": "https://www.instagram.com/reel/DaYVVrsBdwn/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/734958317_18229612030316302_5436661985607278581_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vtADCRXNQ_oQ7kNvwEWzVik&_nc_oc=AdpHd1ZXiDDwgYMh0TyNbqT0udicydqx6NH3ki83zouzhQKPf2-kTGCIvi6Mz_GM5nX-zBYtmXpSL8Vpjdas0umD&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQGqq1gc_SH4qNqvJ1r5SPuiutoONlMWJTfGk2IamQjh-peTB6WWHUfhByUlF561mYsR6kOFDlUd1Q&oh=00_AQFIPtjA-_BJCThcqY3gcIANfRYFW0_-t8YlNj4P0paLsQ&oe=6A727E44",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/734958317_18229612030316302_5436661985607278581_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vtADCRXNQ_oQ7kNvwEc5NNg&_nc_oc=AdqI2ToJMVclGEfENh_sgLpVrg_m4S0sLrHTf7efeVkwMwB9SJHhOmwxtHRjsGyOsD3PxGyNq5GAGZR45uvTuXH6&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQE-Qn9B4EjLxYsBj-QliRZaeYxKJEObhqdtAO2QJkNXCObgQyQZfQoAUVBFAjPZiScAbaweEzO3aQ&oh=00_AQHt9AcEuYMy6xq72EROj4vTSmoga0uuTvoqtDq5FHlcow&oe=6A740804",
       "timestamp": "2026-07-04T18:00:02+0000",
       "diaSemana": 6,
       "hora": 15,
-      "likes": 59,
+      "likes": 60,
       "comentarios": 1,
       "salvos": 3,
       "compartilhamentos": 16,
-      "alcance": 1655,
-      "interacoes": 82,
-      "visualizacoes": 2388,
-      "engajamento": 4.95
+      "alcance": 1664,
+      "interacoes": 83,
+      "visualizacoes": 2398,
+      "engajamento": 4.99
     },
     {
       "id": "18060795371727693",
       "formato": "Reel",
       "legenda": "O plano negou seu medicamento de alto custo? Antes de aceitar a negativa, consulte um advocado e veja se tem algum caminho para conseguir.\n\n#medicamentoaltocusto #planodesaude #direitodopaciente",
       "permalink": "https://www.instagram.com/reel/DaV-YI3BwHB/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/731338897_18229274929316302_2354747073518718322_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=8vOejpUqKxEQ7kNvwG1NDH6&_nc_oc=AdpxIq1d8SluA7wmJdpgYYVVX63QvXk4u8ZSyakf2qb1kREtUaPSpEkx3jpEp-ZjXyjYZjUCMz--S2KV25iAdMer&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQG9AbkKNr9BR-dT1fkIgqL7FI3yd-1GONdXzinbDxo5ssO1nGWVVJ8ppZ-0qKG-Aqjf8TfRURwEyg&oh=00_AQEA3XIPe-Ktvz-QejVVu2UXoFgFGRy0Yc6V0Y96Qxppxg&oe=6A7279ED",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/731338897_18229274929316302_2354747073518718322_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AkWD_cPLUWIQ7kNvwFcB-nT&_nc_oc=AdrFxlMFC_WwZh-ZmTyTM-TXnzKy_-Ay-ImLEWWBcy0ifKhJvfRalE3E0455xSr5KxoyQeqmDZQYHA8DI_JTVu2s&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGV4rlzsXav2hBvpxh6DawfUHVyuvyPODdPFSnZtfdBLnzyN-CppIgHYAsRuStGVG4JMzRue9MoCA&oh=00_AQEbYGz3KvaNp6BsYScz2-q3-nDPdESBdYaHaLhoHmbyrw&oe=6A7403AD",
       "timestamp": "2026-07-03T20:00:11+0000",
       "diaSemana": 5,
       "hora": 17,
@@ -510,17 +532,17 @@
       "comentarios": 0,
       "salvos": 2,
       "compartilhamentos": 3,
-      "alcance": 699,
+      "alcance": 700,
       "interacoes": 29,
-      "visualizacoes": 971,
-      "engajamento": 4.15
+      "visualizacoes": 972,
+      "engajamento": 4.14
     },
     {
       "id": "18098073299246054",
       "formato": "Reel",
       "legenda": "Não julgo kkkkkk \n\n#advocacia #paccolaepelegrini #banco",
       "permalink": "https://www.instagram.com/reel/DaTcUMshgiw/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/729976967_18229401949316302_5783967000038101051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=egEsWNx7gU4Q7kNvwEL9Urz&_nc_oc=AdofuwRG9heAqjd2tO5dZqf4gfeIAHjoXXOnOvdxz-aMQeBrCCx9pYHA-46K385o8kn5uQP8sCLxsM8UGctGt_an&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQE6PvyaEDciClvNNpIXQbKYiQXn8XQ5I-H1YXvhY0xaBXRpQzN6gaD_xeeSja4MtJsaRi7Cy9Wmyw&oh=00_AQFRT_G0OLkGj0vaIweQhXmRaNJ3lid1W8CKgH5xLvbA6Q&oe=6A72820A",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/729976967_18229401949316302_5783967000038101051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=egEsWNx7gU4Q7kNvwHb5mDw&_nc_oc=Adq1V-GOopEJ_m26HA9JlO8IM5Zzugvy-mWSoxafR1uc4ESJ797N6nRnH98Y8RmSCkt9IbgUQ47YPXg6BX86GLgQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHjWq-_3f7TXEWymg12NkWXzV3k_nXGS6DgVz72JitRE4WHegMMkV8OZ4SXDH57uIDlxWfFIGI_9A&oh=00_AQFW2RuDqB0qWo_ncSXHHhzRiTadO2R1zxoy9-vJCQ6v5w&oe=6A740BCA",
       "timestamp": "2026-07-02T20:24:10+0000",
       "diaSemana": 4,
       "hora": 17,
@@ -538,7 +560,7 @@
       "formato": "Reel",
       "legenda": "Vai assistir à Copa nos EUA? Se o voo atrasar, cancelar ou der problema no embarque, guarde provas antes de aceitar qualquer solução.\n\n#direitodoconsumidor #voocancelado #copadomundo",
       "permalink": "https://www.instagram.com/reel/DaQ01C3hbO_/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/728225649_1544224107352914_6012432871609321769_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=m_m7-O53SbsQ7kNvwF0P9X4&_nc_oc=Adp3Aq-uZT2Lf7rRtw5hKr9FRceMoql4Cle4Xvmj37WWgGFfKatgwHYMgVfBf7RErtK24-TjH5VD3R3ZtTUQSkpW&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQGV77nFTNyMPE8NxbWgLFERQ4UBcLJ-v3lB7sIwtJrDebU09ZA1SbKKK9gU7KK0Q3aR-IUKpEVJYQ&oh=00_AQFLn9kVguNRl5dPWDdu1ixXRAmGH4QkV0OBYqEmwVsdgg&oe=6A7266B5",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/728225649_1544224107352914_6012432871609321769_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=h6KGRip27fIQ7kNvwHxONsx&_nc_oc=AdqbPzc4MMye3r-45xtNjS2Yb-sAIgIWS-eE9zXXkv1W7VwBgiTtwlvGsyhpijoI5NuBMevvodlpEk7fbI6L7Al5&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGbuVQamxoSXXerSxz7R6RaM2zxDtdkO5lTthsRaVrsg_ReCeA425mK52zRbMiy1Vc0OpkW-_PuDQ&oh=00_AQFAZe3roHY4InGWVWDyrPGCzpauLLIYbFL538Ltf1E3Uw&oe=6A7428B5",
       "timestamp": "2026-07-01T20:00:11+0000",
       "diaSemana": 3,
       "hora": 17,
@@ -556,7 +578,7 @@
       "formato": "Reel",
       "legenda": "Eai, esqueci de alguma personalidade? \n\n#advocacia #paccolaepelegrini",
       "permalink": "https://www.instagram.com/reel/DaOQGFIhB2c/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/731059095_18229159921316302_3731763779327917344_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qTib_mhBkfwQ7kNvwEg3_M-&_nc_oc=AdrQM1De_TgIU_aZDxbuqUxjbQPCeVG_Njsu6uqIJrXU07mumEjyG3rOpVAc4eQeiKsy0cVjOgS1Ld5Z-HbbMMc7&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHrFM3gwBLMM9x5vRo53MbuO_HmYi6wPp8wQjz9ogMKZc_KXl5gd1RbZpoD4dwnUXlnxtpkmIxYoA&oh=00_AQEqQIcdzVC2IRucQw83-7KrnxWgfr852sUx0vCb4eWKCA&oe=6A7288AC",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/731059095_18229159921316302_3731763779327917344_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=36Aq0p5jl-gQ7kNvwF6iVvr&_nc_oc=AdqyZrM9VkFyoUzWhfsyaqqzWOmL0HdGwkqiPzbL4gUoJ3onzOAPo8JwyJtTxUJwqXbk0_GjpH4zlhNLrFEIAwTd&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHHlSGjYdyr8eyM9udEe2AGUgDjWLhVuuwhc0eN1XIMjLXTuKmsvYpQ27Anwuq8VDV_fg6xzNP0vA&oh=00_AQH7jY7dZQ5bSugOjAmirBosELdkqPkHu_Hl58ha7gD8fw&oe=6A74126C",
       "timestamp": "2026-06-30T20:00:11+0000",
       "diaSemana": 2,
       "hora": 17,
@@ -574,7 +596,7 @@
       "formato": "Reel",
       "legenda": "Nem todo problema jurídico nasce de irresponsabilidade.\nÀs vezes, nasce de uma cobrança indevida, uma negativa injusta ou um direito que alguém tentou ignorar.\n\n#direitodoconsumido #direitobancario",
       "permalink": "https://www.instagram.com/reel/DaLHkokRXWU/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/731356617_18229160641316302_4827217165452597236_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KIqmBrktDOkQ7kNvwEpQYuJ&_nc_oc=AdqHi3qd7UGkebOgB8V2S9fPt4-mYxd1XRj8ZvIE7KQQYIjfAiEZZn2C3LhYQhdBE2yAsys_f9GPWAcPmHUZY8SA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQF9aZotZKds9kuj_r_R7MhItc2aY89G37_ePjwh85Oq6o-XOF834wk9RJP8pqBnoTjv1cRQF7dodg&oh=00_AQGMBXFJzBfAuNkgpPPqltJ4YW5xKB1WLnJQqjbFVdSf3Q&oe=6A727D91",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/731356617_18229160641316302_4827217165452597236_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KIqmBrktDOkQ7kNvwHfZwZl&_nc_oc=Adrsl07_pA2mMTinW4p1OnH0lr0WkLi9dg4rwlVTTkhFsog2VwE0cyWgfz4NPGdDbjwNHUeDVchwFkohhj03PFYW&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGPJ8TVeyEBZIb0z-p93snSR2iba-croFOPHWdFHzeSQsk1GzHvGf3M7cZI44FVevzxmID6ESzuiw&oh=00_AQHUhOmiZ9d21pDbYH9AWArxiE5O1l8ujwNI9hWrHxNfqA&oe=6A740751",
       "timestamp": "2026-06-29T14:49:50+0000",
       "diaSemana": 1,
       "hora": 11,
@@ -592,7 +614,7 @@
       "formato": "Reel",
       "legenda": "Entender a diferença evita muita dor de cabeça.\n#cartãobeneficio #cartãoconsignado #direitodoconsumidor",
       "permalink": "https://www.instagram.com/reel/DaGCmvIRAXf/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/730040638_18228815260316302_8554169952885131956_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-RxiRtHnu0wQ7kNvwFDOWqI&_nc_oc=Adp5VR2YG5kpEZYUA5drtGjGnXsxLXcqa8XFbVhJm9qX9GxoHu_4hGPei2ON4EbNgrez-jqBvZxCDI_0KLOUounH&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQEK9v2inVdc7f5kT4pFO45EBL3mSm75fll8cJo2R-eGXroGuxF5jsRT9rmW5cOA-cVDkLRBwhrriw&oh=00_AQFNbW0ytIhRDZSsK-5etDioov1aQS38QNvqJwcGyVCFOg&oe=6A7272EF",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/730040638_18228815260316302_8554169952885131956_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rbmQhEZ3olgQ7kNvwGgnRxi&_nc_oc=AdoNFIpA2iRaa6HxR0ZixLb375c4NebFM0EKTV34pWp7A2Q-73IcFIYTdnYRP9gF7V5v0pIY6xPvQGe1ClzZb8ok&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQFbfx3mSIUlUNDHX_Oqr9_2fbD17LYVHHUWbM0U3uHNOFl_RMlpmQOllzHomrQXvS13HGKhpVHR9g&oh=00_AQHCmfh_d5iUPUVvmJ7Vo3wtqRMuK4l_9d5RFZrni2oPsw&oe=6A73FCAF",
       "timestamp": "2026-06-27T15:31:30+0000",
       "diaSemana": 6,
       "hora": 12,
@@ -610,7 +632,7 @@
       "formato": "Reel",
       "legenda": "Justa causa não serve para qualquer situação.\n#justacausa #direitotrabalhista #trabalhador",
       "permalink": "https://www.instagram.com/reel/DaBYHomhy7e/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/731697954_18229174348316302_5630464342653037805_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=--vi379NFPkQ7kNvwEwglWZ&_nc_oc=Adp8di0uUd59rL_jf-fE4A_FFb3bayBIklU7PS19es_cUMDUyv7QVRzijajT88rynzQr76HaOA0hdZTFyZWFIwtM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQFG93i4Nkn2bVN7p8myVW0VWMeqrVH0awVfTXHTO9RXAUajVk3IOrcxjTgrGkv6ht6PIBvxbhm_Cw&oh=00_AQFo7F4lDzsifDqcmHGDLh4_4Rm9LG_Y6_0Wn0UWONdauQ&oe=6A7264F3",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/731697954_18229174348316302_5630464342653037805_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=--vi379NFPkQ7kNvwFt-PA8&_nc_oc=AdonQCM7DwcMGWC4cQQexkuyZlLSnfUMYky4XBLAEya_4q5zh8GHrGbc9-RsQlxfp9AVW71d5zNh7_qh-NGlIr5b&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQFYGUI7y_2KTBJo0c2LPDXMFXkR-6-7vYzXY0rnDyiMETAKAblqSDnTJaSXNXpdO73QDLyURH5s0Q&oh=00_AQGEz_eBkxgAAV1gZbAhzqrBdUMKwfQM8TOKtYKxJCkfYA&oe=6A7426F3",
       "timestamp": "2026-06-25T20:00:10+0000",
       "diaSemana": 4,
       "hora": 17,
@@ -628,7 +650,7 @@
       "formato": "Reel",
       "legenda": "Fazer oq né… \n\n#advocacia #copadomundo2026 #bets #alpaca",
       "permalink": "https://www.instagram.com/reel/DZ-5EnzBds9/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/729815257_18228502948316302_6916963040223390982_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6f1lNyrbnKcQ7kNvwFtSPOM&_nc_oc=AdpHaH42BRWmZlMOz3uGLC8R0ahk_kEjOXDkPmkHqIRXUmn450SreCnIqHGbl37EdEaP_hKYiY2Sr_2plLdESHqv&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQFa4ATSOQzhsSrIa1DpZ9P9oG--df0NSNvl5vG43VOujXCk_n5P64nDa2bM--UaXNLwKS_PQhRDgQ&oh=00_AQHYJFJuKEbl0k-JB0UCNh8_QY-2PWuU4LYwA8KtkoRbZg&oe=6A728818",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/729815257_18228502948316302_6916963040223390982_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6f1lNyrbnKcQ7kNvwGzgG_W&_nc_oc=Adp7uva5KzUePxMzLDFBNfy8hXx7sq2qxJvTLNzYYczbCLl-nT7S7DfqYRVLBD-buWzUHabu9rbn4TfBXqzPMJBW&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQF12vewMcNtNo9zoC43SVeqOljOti-RpfkHFQmp9ZXuRZqCozzEWqcZgjmNeAVt3mbvtKKUrhAxkw&oh=00_AQHr0L1zDyedas6aTcig2KNtuUFKfCcwiu7FFbtGLeZWFg&oe=6A7411D8",
       "timestamp": "2026-06-24T20:51:57+0000",
       "diaSemana": 3,
       "hora": 17,
@@ -646,7 +668,7 @@
       "formato": "Reel",
       "legenda": "Liberdade ou caos? 😅 \n\n#empreendedorismo #homeoffice",
       "permalink": "https://www.instagram.com/reel/DZ8Of70BEEe/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/731423037_18228382360316302_3917036613039455714_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=67ufKOBGKrEQ7kNvwGPiFzX&_nc_oc=Ado11mfgLB5tCkUdXDDlDkNgEt7fvUvGEx8IddSIbcvboLPDvNEyExsjnHAybH-urVqsvCzH9TRw6el0pAVKOznt&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHDfxiCEx0RjV9j_tTXjfRjhg0r7_ZPa1yKWlqcKzPzh5OTD67B0-b_QQ9TXkIuHr4VcjdD2HhyQw&oh=00_AQH4TA_Pz6KqRS8f8w87HjbQVKmo-FvFwg1dCCaNRjE7_A&oe=6A726510",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/731423037_18228382360316302_3917036613039455714_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=M80D8-x2nr0Q7kNvwHKXD54&_nc_oc=Adq0iyP3iLb3CUVzr_dzl9yfDz0tS_50CxFlrZdYN0IYl0tJ45MeDEs51tHp6xbHETUEyQmwFTEXerR3pAZ5ukMd&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGZFOm2duRYtkLpk0MTSkM0cM0ZM87bTy14fbdfLtJVeV4OIPV6cUqof2WgRbcQWJVbAdukBceSSw&oh=00_AQEd2uLRmf0pLiXscz_we3vh_sFAGi1NnOicWwqdUZJ_nA&oe=6A742710",
       "timestamp": "2026-06-23T20:00:10+0000",
       "diaSemana": 2,
       "hora": 17,
@@ -664,7 +686,7 @@
       "formato": "Reel",
       "legenda": "Você realmente entende o que vem descontado no seu salário?\n#contracheque #direitotrabalhista #clt",
       "permalink": "https://www.instagram.com/reel/DZ5puQtBnaf/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/729486225_18228300055316302_800371977164866914_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Am6fuBXLF7IQ7kNvwFnEM4_&_nc_oc=AdpgryNP449XuLWiNYg08w92my7FqsNkizXz0Mbm7OAmbuBfCa7p8KL7Ez3T-Hd8O5V2crNhDF3j7pcetMOyKNW_&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHXlmSkxF-stZj2AGlzywwInxEJtsRsmGmn__izmi6kihPrFGjk3inHNaV9WByvy3gOLycwDzYyxA&oh=00_AQEm3UW9b5MkjUKVGIChCm-2MKp9_7IumaPl26eeOXYw2g&oe=6A7268D9",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/729486225_18228300055316302_800371977164866914_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=0C3-btBxS1wQ7kNvwF3U4Xj&_nc_oc=AdqNjonxDrOxqywU2fJdhoIc15ILmyboJRDTubji8GHCajKSMNyfggK-5935EpXjeiR1VGJADxb7qq1NFO7ZHdCs&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGuEn4_8XSnT0z_Hdfdt_oEzr4JMMV68f2nNG70OD8HmcQ9cOGFq0Z0JqJuQ0D-ipSELai73lefOA&oh=00_AQH9kh_Cv1_4PwYwli17CLdBdnXWp4sTO7sB-eoVsZpeBw&oe=6A73F299",
       "timestamp": "2026-06-22T20:00:11+0000",
       "diaSemana": 1,
       "hora": 17,
@@ -682,7 +704,7 @@
       "formato": "Reel",
       "legenda": "É muito difícil abrir mão dos body splashes 🥲🥲 \n\n#copa2026 #viníjr #promessas",
       "permalink": "https://www.instagram.com/reel/DZxdzQARYKQ/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/727479328_18227926243316302_5155072200234250146_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=d1Zc72OspqYQ7kNvwGBYpFm&_nc_oc=AdrR6ljBcusyaDViZN5b9q5PGGH_7PzKUEIHIa_pQ-NZQQUt0BXRjdt3w00crvPkYAXUV2Ni4Ixla4IsQRSIPms9&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQG4OKBgI4qYitYyDD0-6mvkn5lrkoArwJeoAEsxMf-oJ5GLjlwYxwXu0OKeOsFPw0bPBoDp1nV5RA&oh=00_AQH8p5bhaI58GGDLksq4cUsTK87BM8_-Qf3toOnG3BiExw&oe=6A726CBA",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/727479328_18227926243316302_5155072200234250146_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=W7SI45Ks98gQ7kNvwGYF_1A&_nc_oc=AdrNlVFS9akpkbNnkh3DIRrGXb8nqtfVPkvGuiUX7aoZgOLv_iC3gBQK77evqbPxBJvNdwdL7CaHqNywox9hfg-g&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHFlEPjV3hP_2PFbgx-RUyw0ThuHOvNs4YOFzSB2iMIkEAc1vW9rCfPQvZT8FJUS_8AaMBe__GWUw&oh=00_AQFOo69lhp6sadCeSlAtTELy0SGqzcAAyOZbl4t4-a5NEg&oe=6A73F67A",
       "timestamp": "2026-06-19T15:45:08+0000",
       "diaSemana": 5,
       "hora": 12,
@@ -700,7 +722,7 @@
       "formato": "Reel",
       "legenda": "Ser demitido já é difícil. Não saia sem conferir seus direitos.\n#demissão #clt #direitotrabalhista",
       "permalink": "https://www.instagram.com/reel/DZvWdXpBsSW/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/726704653_18227904595316302_988631609520166750_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rZICkrR2S2MQ7kNvwFd_3o7&_nc_oc=AdrlTJRVrxhbGWvsGMQhQXEI8S3ByPKlXPZCafsAkCfkwwmr5SKA5pCHEu9u9aYoTnsPP0unKEzqt9VyIoC_EwyE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHgykxBVG02XYtiQKBL-0Jc6jJ0a4BSqcRDQ95_32UQdy3xN_O2Kxue8m67qblbSngVZgqsmJ_Fmg&oh=00_AQG1O2QTk1C3_AlNuYuOEer72M6PMCbXaS3tyyRpR8H-Tw&oe=6A7283A9",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/726704653_18227904595316302_988631609520166750_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rrx1ioZdUgQQ7kNvwEOScMn&_nc_oc=AdrHLEdu1aM87HEaJjWrkCsY09hGyYlbw2jTRHWyLHiCexKn1FoSEZYdJ8ssfiUiCWKOLxfeZWqNhdF1BXiP9P8P&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHLoYq2vgzbhD62LvUkLPfnykeQtaBrLu7pM2eI4xLrwzxnKl07v7hHPigyqfsAFTDLgAkruvglfA&oh=00_AQHRGgXFvA8S0HbnzyA1rTZdzbV93aNoqYg9YYkPuT3Smw&oe=6A740D69",
       "timestamp": "2026-06-18T20:00:11+0000",
       "diaSemana": 4,
       "hora": 17,
@@ -718,7 +740,7 @@
       "formato": "Reel",
       "legenda": "Me sinto a rainha da advocacia 🍾 \n\n#advocacia #reidocamarote #alvara",
       "permalink": "https://www.instagram.com/reel/DZsfR2URyT6/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/725198831_1732447821361095_5863792391906038842_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=OKSgf7HWyqcQ7kNvwGBv0Ci&_nc_oc=AdradsUkQRvcthmjehLqUFV6kTsC3vSu6OzRfoXGdB40KtTM64PcGaGC7WmVZraceCsJimXLQlyGHHa9O2Mb2-CS&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQEQtD6b4FC4d1Byf1Y9gobS42cmyQNJ-oDzYKoZHdCvoDxrx2_7QAjjCFP_mLhZ1a5YSEw4DFkcHA&oh=00_AQFs1HuWYVtPF8bRh7bGlMXnd5MMg_aRUUcGZuk7tVvzSw&oe=6A727020",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/725198831_1732447821361095_5863792391906038842_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_TdeVZAthF8Q7kNvwGNLeFf&_nc_oc=AdpaXfSJv7mp_0haHEkle_0oD-MUzVWHYeCo_N4ji8VD0CqTQjbKXU3c0Zv3yIO654Ye-LdmK3jsKOQ27Eb82DKC&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHNcIYnlwVvDg6vYD4kXHkRDcSp4JIKv3XYS8M38cA6hfl60TisU91Z3x5mhHLOhBikudIZxQDBxw&oh=00_AQEtovAM0f3-fCsnUWqP048k4bvL48EDlKCuvbJBATVckg&oe=6A73F9E0",
       "timestamp": "2026-06-17T17:21:31+0000",
       "diaSemana": 3,
       "hora": 14,
@@ -736,7 +758,7 @@
       "formato": "Reel",
       "legenda": "Nem tudo que falam no trabalho é verdade.\n#direitotrabalhista #clt #trabalhador",
       "permalink": "https://www.instagram.com/reel/DZqVCcYhqXn/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/726508429_2274371310035701_5556791651126015577_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Iui4MpOVFPUQ7kNvwEGadql&_nc_oc=AdpU1SuFFY-zjgp0RMLH86_XGgDJjpvcArHdAFXXaIOekMoI4Lv1-r4Ng0Co76d2AItL6tPHqQQ-4dG_-3p9azne&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQEljI7Y1jZhW_uvsr6bvY7jS1y6CXTuoq_nKA0X0-oSwWBisOYPsVB4zSarmyYuBThq8NcDw8rTug&oh=00_AQENX4mULPs1D2GF8N7eornsGDRzGFbmos_63Euz8GBFJA&oe=6A7279A8",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/726508429_2274371310035701_5556791651126015577_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Iui4MpOVFPUQ7kNvwGnPGDQ&_nc_oc=AdoH8kgeH6Kv2UCy2Kv2MyypknuOvZX163NZvfA49dT84LmpxAaMIK-LPV0BAMyXx4S_T7KO-SlGWKb2cisInFcT&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHBhokQbkCzYsLkZ2QTxz4juSlRna2VUaBqa_7y7fYJOjdjFECT1-Bj8AVkJJ4LeYoLjgnqpwByeQ&oh=00_AQEg6mwv8qV1XF3PQF_N7odJhvghmR9hBm5qbcmE5eDraQ&oe=6A740368",
       "timestamp": "2026-06-16T21:12:21+0000",
       "diaSemana": 2,
       "hora": 18,
@@ -754,7 +776,7 @@
       "formato": "Reel",
       "legenda": "Haja paciência pra ver uma série de advogados no Brasil! \n\n#advocacia #paccolaepelegrini #série",
       "permalink": "https://www.instagram.com/reel/DZnrfydh7LM/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/726526076_18227904751316302_2924066568463889249_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=t5gY8TrKGa4Q7kNvwEyEYPv&_nc_oc=AdoagarYS4BZ0koWk4sgrvNTS4ZPlc1qDqZN1ef78yBn1oFRUIx9tVWWXHzfvkLDEchhAuouhrMb664CEc9f2i8l&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQFstW_x5RxoaKYRJL7qNWCZwrSlJ94i9e47TtALpDn9K6mWa2mNKgzQo7PIEGQWTt16MuAZLSvVoA&oh=00_AQGNUufw3bVckm02J2Tv1jTAo0bP-fo27NofHySvCXFxpw&oe=6A728959",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/726526076_18227904751316302_2924066568463889249_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=HJh4XPwHsy4Q7kNvwH35bE_&_nc_oc=AdpNX1lPA1WokmLYwGmOv6-X23eWyFa29BWB-UeBsmpF3sRD4Jg_09KqLzAokfBp_NQb9UkhXdCql0Rc1jPAG92v&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHuFt6fD8f0AwXJvWv-iQiptMFBH71WmxQVhCY2kAdscf4bd6b-atWWzS8QEB1iw8PxtViBnyL0Yw&oh=00_AQF4TfP_hG8RgugXjguZTuXT3Y_HRRrBUCM1_CexifCEEg&oe=6A741319",
       "timestamp": "2026-06-15T20:30:11+0000",
       "diaSemana": 1,
       "hora": 17,
@@ -772,7 +794,7 @@
       "formato": "Reel",
       "legenda": "Compra online, presente com defeito, restaurante ou voo cancelado: tem direito que você precisa conhecer antes de passar nervoso.\n\nInformação também é uma forma de cuidado. ❤️\n\n#diadosnamorados❤️ #direitodoconsumidor",
       "permalink": "https://www.instagram.com/reel/DZfxyaJBEM5/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/724239493_18227594719316302_8762502920125708593_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lWOaZP7t8JEQ7kNvwHPSk1H&_nc_oc=AdqZD783Tk6dPJ8D9SfWb3Fr3rP5lSgUFuVtXcXf6tHWUvi4JjiRD5e6Hv7xrLAVj1ZeB4QWvPaW-zugMJABsDll&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHmkaLbWYXJGUp9TqI4w853oItlpmujIGnz3QIuc_ZvY7qCPwwyDS7_LZ3QejPZqBY3Iedv7C5JYg&oh=00_AQEqWjja8JiFQ3E8o5ZFxmPb4tS5iAPBEzDqqL7G1VfYhQ&oe=6A728E75",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/724239493_18227594719316302_8762502920125708593_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=OpzAjI_gWE8Q7kNvwGO0Aa7&_nc_oc=AdqKD0oNsQyczx2XRWE9Q2n7ATEEYaABHEV1hTjflBb3imXU5m4nmQdlr7ahRkEdOVvSikJJpJePSQ9d_UHz8kdn&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQH21jjxlf8m23edwgLHQdVbjFeELYjSVb-jt5uPrzgxt6BPZ24yPiN5cx4YTQ_LUcylI8LAKV7OuQ&oh=00_AQEmip_sJLYoIrsRy4q2pzxrnQDpyFSD8hP2c2FVN3fZdg&oe=6A741835",
       "timestamp": "2026-06-12T18:51:44+0000",
       "diaSemana": 5,
       "hora": 15,
@@ -790,7 +812,7 @@
       "formato": "Reel",
       "legenda": "Desconto desconhecido no holerite merece atenção.\n#holerite #cartãoconsignado #direitobancario",
       "permalink": "https://www.instagram.com/reel/DZdYZiUB9wb/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/720623601_1357617939599503_3576954906631109110_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=3lYBxGix-6cQ7kNvwGdVP4N&_nc_oc=AdoVefftbTgP1DvFESUVoQhVwGTBHxQSD8gfbKxytaEvzWUMEhCpaA9NjwTOw0mTSfbSiCj1uQ99dCzvbbD32gIA&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHvcYUeRRnbfB6GusjOt-Ibt-ly20jTqBOWl7JfwooY-z0ZMDVrAlRizuCLFzjgpAfCi4Phtxt04g&oh=00_AQG5dQfOoweGY4F3eeuHAfzr5HuR0AatmTC8cs2eOHC2KQ&oe=6A7268AC",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/720623601_1357617939599503_3576954906631109110_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=jsy9sVzGKfQQ7kNvwFK-AIS&_nc_oc=AdqQL7kxhHAPY-n8nKkoldGd6ca19bNNowtDLcTPW2x93PI5wDqw-xxhfywVp22LjjAyccvU5B4hQXiFcG5gqKnD&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQEbQhgLiry_uYk9cWaLe7xd_OibqpskQm8dHHyut-cc9Ts0Ng2FgclXub2gyFZMLmfg_AbG13riaw&oh=00_AQEgIds7O1TzYxkW5b3lIxMXKpnwbRfDGFsvnAyOBYk-eQ&oe=6A73F26C",
       "timestamp": "2026-06-11T20:30:12+0000",
       "diaSemana": 4,
       "hora": 17,
@@ -808,7 +830,7 @@
       "formato": "Reel",
       "legenda": "Muitos professores estão enfrentando esse problema sem saber.\n#professores #cartãormc #direitobancario",
       "permalink": "https://www.instagram.com/reel/DZayZ7-Brxi/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/725074098_18227594743316302_2136389964367404293_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=7gVrGmLDQWgQ7kNvwHJEISG&_nc_oc=Adr-QO-InIszCUi0fuILY584tBerxUez88hwEbzcqn5AJ0ScZce_F_GwAXYkeLRBIkMnRR2_7IfUiv1vXLYE_3Bk&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQFmCr41BzHgMwlMdCLyg2akDRVdxYySLXn_HzG0_rFVHmYMO5jvWwGjoysvmcNAcp1ak63kinTW6g&oh=00_AQEeG0fEutKu8mi_-7SexdbFrFn8g8T4JeoCoWgCzeHcFQ&oe=6A72826C",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/725074098_18227594743316302_2136389964367404293_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vixKk8dNOBIQ7kNvwG23kQ0&_nc_oc=Adosh25KThnPalNJ2qRB1U_GEJ2zMlpTBw40tmWEMoTAEb-2HKz-dZ-lCqAgjfyzQe_jwiYDe4MfLvA5r_7DaFj-&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQEPfkMxqBB0v2zpyX9kME1c3ppGPXe09a6kfkJWyG7LtxudwNl3pIYHT0_2ptY1ha4PygsaxqAulA&oh=00_AQG0BWRPUKeY4qqzMETj-7ytXE2tc9mmUNXYIJqkpRHTgA&oe=6A740C2C",
       "timestamp": "2026-06-10T20:20:58+0000",
       "diaSemana": 3,
       "hora": 17,
@@ -826,7 +848,7 @@
       "formato": "Reel",
       "legenda": "Recebeu uma intimação? Calma.\n\nNem sempre a dívida está correta, nem sempre a cobrança é válida e nem sempre o banco tem razão.\n\nNa parte 2, mostramos o que pode ser feito para construir uma defesa estratégica.\n\n#direitobancario #empresario #execucaobancaria",
       "permalink": "https://www.instagram.com/reel/DZYRt28BCoP/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/726955014_18227904787316302_4425811253213963309_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=j6jWa8I_zaQQ7kNvwGP0Axg&_nc_oc=Adow-Q6Q6g6M1gCr4QTunkLpK6SzwYjyI-XNd_rvgN44Z28L7TXb7z2MHCT9Wf7yzY8V0Fc7PZ7FelK-TgOrwz5p&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHFvTgt-BYVw04u22cRx7Y-z1KkxW-Uae4MZPyGlU-Ln2kLCx15UyJ_5wvu_GhagqbSNZx-12bwkg&oh=00_AQHAFYnDQ18Rs9zw7CAxCYH4puwFgZYXnxxtI9ah8ezNWg&oe=6A729172",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/726955014_18227904787316302_4425811253213963309_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-S_NKSLYzGkQ7kNvwEqq4ob&_nc_oc=Adr22fdZgekMGhlV63Qb_UupNWc8qsA2LDVVA0W2VrmaaBk3X1ilwtUnuv7AJScmKSf5cLJN2Es27ygXZKHE_SKz&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQElgzszkrIi7Svxhp5jjsz4hvwi3mLOmGj7e-nNX4gwpmr1efMJFtaFzXY9WU3ZlQ7GQRlKGoZGcg&oh=00_AQGRKITOoyzxIZI42-5VX1PJw5x_jYgSUByZ2yDEBoAUCw&oe=6A741B32",
       "timestamp": "2026-06-09T21:03:43+0000",
       "diaSemana": 2,
       "hora": 18,
@@ -844,7 +866,7 @@
       "formato": "Reel",
       "legenda": "Receber uma intimação assusta. Mas desespero e silêncio podem piorar ainda mais a situação. \nFiquem ligados no próximo episódio! \n\n #direitobancario #empresario",
       "permalink": "https://www.instagram.com/reel/DZVpbRHBRet/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/720087034_1332763241776571_8397892851703510532_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=SQ7cgc-n084Q7kNvwGRUEOR&_nc_oc=AdrCoGR7WDRFvszMyVgio6-SIN6gknjTHiDB3f_ZivX2Af3Iu8_AKUDHOEa005lC3C_DXWVdWOxXtmay-5g6ojex&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHH8ZttA66Ilpaaln9bK1QDC2q9GVWn0xlkBIcntfAapbKSZx6L6HffCgwxGPCJDxh6cj3IuWRwqQ&oh=00_AQH2LFBlQlv_MgIcNDplCGZXYmMQHWaxK4vxRJv5ce-lYw&oe=6A72663B",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/720087034_1332763241776571_8397892851703510532_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=SQ7cgc-n084Q7kNvwECh8KJ&_nc_oc=AdrGt3npv0wFtebyUXDmnGU_U_346tf0MZv-ur9z2ywlMCwwb0oKKKwTH7qRdmMbPggklJErl-mHwKBlixdH8-f2&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGN54KpAhYy8lAbju6YLsF-IH6g00Rd3PUGqyqU4OJ3eNUC3NR66bN0S-2Jxgx2WmC9bfCooX2hVQ&oh=00_AQFpL1mtsUVF-csoMHIHU_Yncut48JauLO1odLwWmdXCiA&oe=6A74283B",
       "timestamp": "2026-06-08T20:25:08+0000",
       "diaSemana": 1,
       "hora": 17,
@@ -862,7 +884,7 @@
       "formato": "Reel",
       "legenda": "Se esse é seu caso,  nós podemos te ajudar! \n\n#advocacia #direitobancario",
       "permalink": "https://www.instagram.com/reel/DZOIHCvhrRV/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/714871085_4415803595398187_3827598685208280985_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aoF7zNh9z2EQ7kNvwHpDfjG&_nc_oc=Adq39Kaz5nKovsPvM3-X_02aDnsXu0SHUSQoWJ01Viu5mEYVuab1PER1u7Cjzqv0J0ndfx6lrTlIyShHqTH1JJuG&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQGxNSv3La_P683G76aTzyt4RSQEfumIOmzK9tU9FNu3WTyjUQTN0-ouXda2xTDYui4ivMiArpDtvA&oh=00_AQEJKvoSjIsYboayV7HW4AShI-mpSguqLrTIp-T14H2YzA&oe=6A7292BC",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/714871085_4415803595398187_3827598685208280985_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aoF7zNh9z2EQ7kNvwHBC4CK&_nc_oc=AdoTR65-10RRY3P4E0zxQ1Z6X1t14rBioRT2S9CZ0Jm2hwGuPvYozfpqeSeZocclFmDiRtMe33IsQZWPkxU80-Re&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHuX614JkWGSG-m3r9Fg249K9WJi9-IluLB5gjgfBd2_C9kplurZCN_q6V7UQCH3h0imFgZmYzz6Q&oh=00_AQE9eUNU0o5tYaDA5bgqoUnFAO8mWWbmS7vMa8xD9ZQwog&oe=6A741C7C",
       "timestamp": "2026-06-05T22:20:28+0000",
       "diaSemana": 5,
       "hora": 19,
@@ -880,7 +902,7 @@
       "formato": "Reel",
       "legenda": "Não tem como ser chato com o tanto de história que rola kkkkkkk 😅 \n\n#advocacia #humor #historias",
       "permalink": "https://www.instagram.com/reel/DZLZbkhhA_Q/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/715020302_1381700963785571_8098498538199846435_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qPoyvPbvJdEQ7kNvwEkbNvU&_nc_oc=AdqXpvVXv67NoG5MERHvdGHQq33w_A6RH_EkfNFy0qN-RwCkDUO40Vn9BCYxB2ht5SCc3X-kymeM5uhb8A_6aqWy&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQH-RjUCUdomWs7EM1O3Jg_VUt9E5GAjA87Uz6QGM3OtR6OWmfXWzOALczTlF3xY_KrEpTaKYDz2VQ&oh=00_AQEig3p8p4RC0XFHyLIgvVv6moJre6KOVkv6Dt0msJykoA&oe=6A728B2B",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/715020302_1381700963785571_8098498538199846435_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=vt6NKEr0O8IQ7kNvwH2mtlu&_nc_oc=AdogiUbHHC8C6_mKl1M96u3sGGn4rdJQtFVIV4XkebAqvptnzrNxxC_7qApFI4fXxKCOIbBAnHkJD-Y0puoZAkaQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQFlw-LsVYpoehX68PiVMIziekufJydVF1gRJbzAhCQYof2_HSndunUC-lmKEOc29j4Z4q0cDYNygg&oh=00_AQG9NJmCGNKC5ek-BUlkwRnnHDTNUniPSKneETziS0goMw&oe=6A7414EB",
       "timestamp": "2026-06-04T20:53:58+0000",
       "diaSemana": 4,
       "hora": 17,
@@ -898,7 +920,7 @@
       "formato": "Reel",
       "legenda": "Seria bom, né?\n#direitotrabalhista #trabalhador #clt #humor",
       "permalink": "https://www.instagram.com/reel/DZIyCCyBlF8/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/713963701_1320766466693626_1931420503032524750_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=j588DytL_GAQ7kNvwFiOpa0&_nc_oc=AdouC2Flyiov2HQcAlZq9lLyMhwjWLHYS4hwvM4v9jp_mv55YRfokm7TYRwfoxerarP5ipLW4Y6S1ANHD3SdjIhe&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQH8iFb2bzHbzxsUYLivLzefe9LYenRL7nXzm0AYVxJ2FF8ptF0KgJ7RlOk9LghFaPLY-X6zQFRihA&oh=00_AQF85-R1_jXBdkI5eKgSjlNSfV6GaimT2GMQaAW9zzUKwQ&oe=6A729385",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/713963701_1320766466693626_1931420503032524750_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=j588DytL_GAQ7kNvwER54oa&_nc_oc=AdrexMauHXxCaqURFAxBIQpz0p89qYA3wx000Lb_RqZj5EOw0rMubDBraooPY3JusKNqypbPL9ihQJ02y4uTtLAc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQELNNy-X9CsUmNwEHmOkW0Ezb1rkxsTd5F9dI-DjGr-i1QZ2NiEwmECwSNJjjJA0w7PoM2VP74RaA&oh=00_AQFzuSZXm5VO5wroQYlY5Rm57TJovjUEZcsjm_lyDcmL1g&oe=6A741D45",
       "timestamp": "2026-06-03T20:30:08+0000",
       "diaSemana": 3,
       "hora": 17,
@@ -916,7 +938,7 @@
       "formato": "Reel",
       "legenda": "Receber uma execução bancária não significa que sua empresa ficou sem saída.\nCada contrato precisa ser analisado com estratégia e defesa adequada. ⚖️\n\n# #execucaobancaria #empresario #direitobancário",
       "permalink": "https://www.instagram.com/reel/DZGQfUchcgr/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/726636166_18227904811316302_8594204593425773976_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=8HGG1kAmnGQQ7kNvwH260u3&_nc_oc=AdruHbbq2UGLcWS-xJPfgjSeVuYxEO6fc7SIaak4iQPB7cI-O4krZMILOmRpUzGa1YPk86e_lqvR36gqAZi4F6oB&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHbJWRrVjucsn1KP3XRQS4Vc_vG8caxMaBg-8zMSYNtYq5veHwXs1ZvLzI_oezOikNuVoqQ_xPh1Q&oh=00_AQH0AqSTupRgnboDdZfBmEk8bgJnw80nu5fuxv9u8lStZQ&oe=6A729688",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/726636166_18227904811316302_8594204593425773976_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=8HGG1kAmnGQQ7kNvwHroR8a&_nc_oc=Adp0vMoWJ_Dgy7yuQrz-W_FQ4UxrwKvuW1vcHSoyin3tUAohHKiMaP5RO7xKXoIstEbF7-C1vMv1J2NmaQN4dYLt&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQFLl7FCIlRxthjTHDXzrXPjDnAyjAINHvMxOjbw-NpLX_hJx0FumMcpPTGm_AltHgzyP4cAcbtkuw&oh=00_AQF4vKTk1FnnqL5yzZJOInff90hFAVjZI71XJBRcgrB1WA&oe=6A742048",
       "timestamp": "2026-06-02T20:59:32+0000",
       "diaSemana": 2,
       "hora": 17,
@@ -934,7 +956,7 @@
       "formato": "Reel",
       "legenda": "Muitos empresários só procuram ajuda quando a situação já saiu do controle, não seja mais um deles. ⚖️\n\n #capitaldegiro #empresario #direitobancario #emprestimo",
       "permalink": "https://www.instagram.com/reel/DZDoegmO04z/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/713704328_18225997537316302_6409345557023796587_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NY7ZSWKD7SEQ7kNvwEGbbA1&_nc_oc=Adog7i34D0C-lRMuxdRJSBqWWUQmWqDB_7D_oZ4cyNKp0Jdk67rROMNVYbge5zn6gL6zwFIqKm_9b98XoYtEyrfa&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQEsJozVnax8WsOX2ygVdwxPYDdCUwPnKAWKuKmSv6sXQcky9J2K8hw3qh1qRZBzoS8pWMWsnCvUyA&oh=00_AQEnOIHbK3dEFKiOeCd7sonkkJeylf0SGGJhcB-8y5US-A&oe=6A7275E4",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/713704328_18225997537316302_6409345557023796587_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=FAX-WpDr5HMQ7kNvwGiuYQo&_nc_oc=AdrANHCuCPPj63nly7dCvueFRBRiP9sMNMKRyt-gt1oDn2DDRFaqrcuRSchAuoufN5UEXy1IownPTlEaCfPkSrUP&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQEhV6IddM8wrz5tJ1A9kVJQyWbh_tFfHYoeiKbHJceynk59vcvdp450zz-Pdx0903B1gk989Sk-pw&oh=00_AQFUEgQdwrHVajYREA0DWQ5jSSu6R7DpRAX8212aKtb4_g&oe=6A73FFA4",
       "timestamp": "2026-06-01T20:30:09+0000",
       "diaSemana": 1,
       "hora": 17,
@@ -952,7 +974,7 @@
       "formato": "Reel",
       "legenda": "“Pagar” e “honorários” na mesma frase, desperta qualquer um…🥹",
       "permalink": "https://www.instagram.com/reel/DY7UPS_O7XJ/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/709426564_968701819108142_4059740734963731080_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gX_BnvvIvkkQ7kNvwEoKvoD&_nc_oc=Adob5nvJPhxwhkDWBGLES8wo-PrKh4S1nBSuS33zHa1-2ROBjvnErUKCg9NUALefPrY-ueAdWW_zjCbpc7UpyeHE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHo2O1a0W7Ljt9UFfk-yMwp-rXQwJs4YMavZdWCz9F81EX3Jg6IrZ6enLnll1z2EcmAOCzHvYHiVg&oh=00_AQGFciO6EswHzwyejH03i-o6cp1ATEGvGXRtXJcsHzd4rA&oe=6A729696",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/709426564_968701819108142_4059740734963731080_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LyWi66IlqqMQ7kNvwHgRX27&_nc_oc=AdpnOpgY2n4t9sHUFRlQ8PlFBsexg3uxE9IY-DTcC7Qj_YcRkYt2F7K2FgWqoJmkw7S6JdSVi-kMju9tKZ-S-a4H&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQEJtC_7TAtf6BKfakXezS8TjHtQGZ-0OD_6_hR4Xx818XuxUNYKj9VAdJCPLUE9yQ8zMLxQSAZa_w&oh=00_AQHvpezt6xw9DNCTk7AV5-leFh6e4-B6ST3JAutY5_-zlQ&oe=6A742056",
       "timestamp": "2026-05-29T15:00:14+0000",
       "diaSemana": 5,
       "hora": 12,
@@ -970,7 +992,7 @@
       "formato": "Reel",
       "legenda": "Acontece né 🥹 \n\n#advocacia #paccolaepelegrini",
       "permalink": "https://www.instagram.com/reel/DY5U8-phMFE/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/710138063_1011211425195181_7756618893069116038_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=CLEo3J6ghU8Q7kNvwFEsPIG&_nc_oc=Adp8or7xXdim4fuR9EZzrS-nCET54XUryE8ZCQN3uXg788k5v2QgW1QIXWjv2CniHe50K1Ha2QgzVcth5UlOZFSr&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQFX2gXNMC1gOhs-YsbfSApowyZSFo0rDcsQ7VISZAqvOqIMotuXALXMlbeGdbz_vSti3TLQPa-2FQ&oh=00_AQGt3H_YxJCSf84L97T1BGsHXJlO6af2ZpRCcrhW6VxRxQ&oe=6A728D39",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/710138063_1011211425195181_7756618893069116038_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=0YtUMl0RXnwQ7kNvwHsJ2XS&_nc_oc=AdoGtD54x8d98YT3EpZ5_h7TVbjsSLZPcne2_6v_cuHXjdclO85Lg8pNRbQ65DzOQWESSRCjgT6ojzmtcQ-WWdnW&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHF9V14I8vSHiIrhssAhcqege8fP2Fv4QY_ybxduj8SrMVyOLFjovRo_BKR_6miqpOlL4uNpGEFwQ&oh=00_AQGAxtVwLv7FULvZdYReKMk4J34n5I68CbuyMR4ilfFUFw&oe=6A7416F9",
       "timestamp": "2026-05-28T20:28:26+0000",
       "diaSemana": 4,
       "hora": 17,
@@ -988,7 +1010,7 @@
       "formato": "Reel",
       "legenda": "O problema não é o cartão existir. O problema é quando ele vira uma dívida eterna.\n#cartãormc #direitodoconsumidor #advocaciabancaria",
       "permalink": "https://www.instagram.com/reel/DY2wc9yhhvS/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/727800338_18227904949316302_5462499086445320025_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=47hbnKk8HzMQ7kNvwGXvBsO&_nc_oc=Adp2fNjPiKyKY9DSgwQJaI_X6fVN483YEVM0tzFiEoRGcnXoN53Kh885e6RhhFaroHraaPM49vLmymUrrkDUJtJr&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQEQUJSG3c6Lu2hAjayrg25Uz0D6p16jjEB-4wbWK6FSl8X0IP6ck22-8sx1Te0RIiOzTMnYQNUdrw&oh=00_AQFRUHZef2wxqrHWRI4TnzBR0lVeH-lP7W2TeGEZGgjrew&oe=6A72861D",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/727800338_18227904949316302_5462499086445320025_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=47hbnKk8HzMQ7kNvwFwzis6&_nc_oc=AdpvC0baD6_HyXTClcHJBSlt-fXlPy-sD1GPOqiAZg6EI6lviaEstbYKWXed0przekIzunp08EUkbDHl_gDwjUiL&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGnaobYDDSIzoU_3yOsFCZaClBfHVBXdU2veyYysWT875jGPOxeewcXLtNA6Da1slsffCSFpzep7w&oh=00_AQEIzb-Q8JkedwA7ZOg9KAdhbsMMCSgMk4MYj5m3VIuLRQ&oe=6A740FDD",
       "timestamp": "2026-05-27T20:30:10+0000",
       "diaSemana": 3,
       "hora": 17,
@@ -1006,7 +1028,7 @@
       "formato": "Reel",
       "legenda": "Muita gente acredita que a dívida do cônjuge nunca pode atingir o outro lado da relação… mas dependendo do regime de bens e da situação, isso pode acontecer sim. ⚖️\n\n#direitocivil #execucao #advocacia",
       "permalink": "https://www.instagram.com/reel/DY0LrLVhlBj/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/711813812_18225649246316302_2842763303789295419_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=iUOKtBP-1TQQ7kNvwGcsoxs&_nc_oc=Ado0rWVNmqLHjh61HS9ZodZujiBhM2SGt6SxxCVv-p4AdcyrbHO7Xg7QdIzIxawHZ2yyqzBiCgUXZkfIRrHS-imF&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHgPclW1TtIcD-uln3x_sFR_KuQ6Pa-YT_WLZjZaHurkoy3bJI_a4SqJ6TSTP4Ghqmcq19w4ziDwg&oh=00_AQF0ff01FQRHoMiE-skIE9UL4HtXt0rPOdWHOANodev7vw&oe=6A726909",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/711813812_18225649246316302_2842763303789295419_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=aNQ5pCb3T2MQ7kNvwHL-yO4&_nc_oc=AdoOfoY1VwgMVQztzS8madp3Jq4YKZNwwv4uPEcP6NmTtH0xMnFPwhbAyEF3DsK05NbMLk1JM0OGCDHQIFrGiFyl&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=ejFaPIgWRJEWxgqFvZb_PA&_nc_tpa=Q5bMBQFKUF43Ng7WMv4SnR-KyNcOzYamamikwepwTT4EMZ8c8WSqZDF32X1MgeGFqhjdFQn1-QRgPA39Qw&oh=00_AQEiA-vS5kjsB_BGErMjEo8MmJ_T1MV1uiHtB6CVoYIa9A&oe=6A73F2C9",
       "timestamp": "2026-05-26T20:30:13+0000",
       "diaSemana": 2,
       "hora": 17,
@@ -1024,7 +1046,7 @@
       "formato": "Reel",
       "legenda": "Quando o salário já chega comprometido, o problema deixou de ser “falta de organização”.\nA Lei do Superendividamento pode ajudar na reorganização das dívidas. ⚖️\n\n#superendividamento #militar #direitobancario",
       "permalink": "https://www.instagram.com/reel/DYxm1OdODKa/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/708754224_18225275014316302_1693337834378395015_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=e9Z6yDUugSgQ7kNvwF7pPd9&_nc_oc=Ado0yWhic2qKEv9XozO6-s3_luEDFBb6DeIEyKDaK0CxVFwoI7qrYoq9nfut103rZTqO87ULq6OTZFtV0zP8B2Q0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QDMClYAzcGdjIPoA4CWmLg&_nc_tpa=Q5bMBQGpV_-tubJt91TLpc1qa8xiYBJr6jDq3uUtbJJea41dlXXcx8MHd_8Hrw5zorknLY4YB4tPswzCNA&oh=00_AQE8_m6kZQTdMGpB2uwV4_I9Hxn89vJX1YI7RaYUVXK1oQ&oe=6A7285BE",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/708754224_18225275014316302_1693337834378395015_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=e9Z6yDUugSgQ7kNvwHgsPqY&_nc_oc=AdrWoP67RQrNeBexX7bPMSxrnImJm0h3GdsYW0vQAl-b9p0U2JoPnTcVSoa1dcSIbOF-l_wvJR0YGorIawCsQHYZ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=ejFaPIgWRJEWxgqFvZb_PA&_nc_tpa=Q5bMBQGeiUXzIJzvEJ7f1ZDbNAyXjoxh3QnUy5uc0hxFkUIuKIF-PcjrWszwP38Wp54EmqXQX26e_p7aiQ&oh=00_AQHJgIXE1YEXpc6jIJY2pkbhLYbkoyToR56oHozQqZsmGw&oe=6A740F7E",
       "timestamp": "2026-05-25T20:30:07+0000",
       "diaSemana": 1,
       "hora": 17,
@@ -1042,7 +1064,7 @@
       "formato": "Reel",
       "legenda": "10 mil pessoas caminhando com a gente. \nCada mensagem, compartilhamento, comentário e apoio fizeram parte dessa conquista.\n\nObrigada por acreditarem no nosso trabalho, no nosso propósito e por fazerem parte da nossa história. Que venham os próximos capítulos, conquistas e muitos ",
       "permalink": "https://www.instagram.com/reel/DYpWcOfRQN2/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/705127843_2056570228569915_8735078697861466076_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Yg4zrf49-wEQ7kNvwHg3KYr&_nc_oc=Adr2dWdqub_iBK6DQoJFhz8RDY2phTGSJI-YRNem7DVb5HqwghKe1U1FovQYMyl5KGnmsaRB1zLLapMb7scfvrzi&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QDMClYAzcGdjIPoA4CWmLg&_nc_tpa=Q5bMBQE8lviFU5ElVH5r3vO6NutwtEFkjeceKEWDXmw9j_jvnubJzHm-P0ta5tWnS5PrsLzPv-T54uyj8Q&oh=00_AQGWOf7twz1PycW2MA3euAuObRNfAOwua-x1I1aKYgDRyQ&oe=6A7297CD",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/705127843_2056570228569915_8735078697861466076_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Yg4zrf49-wEQ7kNvwGECA3V&_nc_oc=AdqvxCVag8zMjQ6HLKCdFEQRu_ZzPMOlypNLlR61615hlE2TRZb47aSyHFW1bvgNMbiZrqzret4IuZDstNGmC2kO&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=ejFaPIgWRJEWxgqFvZb_PA&_nc_tpa=Q5bMBQG6vom93vFs7OqAo-WsvZSCN81UKDV0gaeQUJw_XRH24kz8VQ1hT-gkyyh5mYCemxexiMnc-MnD_A&oh=00_AQHAtkH-0J9CgCsOTDmWlbmDKxJcA8C1fKErC5nQyDY3lg&oe=6A74218D",
       "timestamp": "2026-05-22T15:34:46+0000",
       "diaSemana": 5,
       "hora": 12,
@@ -1060,7 +1082,7 @@
       "formato": "Reel",
       "legenda": "Se o seu salário já chega comprometido antes mesmo de cair na conta, talvez o problema seja maior do que “falta de organização”. ⚖️\n\n #superendividamento #professora #consignado",
       "permalink": "https://www.instagram.com/reel/DYnY_URBBXO/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/702620709_736737096163940_622620403705063769_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KGtxIEe7RJ4Q7kNvwHeDMrF&_nc_oc=AdqIHuqb2W5gYwhc3OVN1ETgfQSY1YIH6PObO1T-RFW3mgmEDydkRwioOXLbwxYDb3E3Ewk5FXjRMmoTbafZPkQh&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QDMClYAzcGdjIPoA4CWmLg&_nc_tpa=Q5bMBQGgAQ1Qtqqb6xjLEBpYoIqfLyYtUDEqhMP-_R0oCYzVeamI09CfzmWQYNXQtvnPA7NrRiA9_9U1rQ&oh=00_AQHirG3CCplL-JM8JKs9lh_EnE2nTroXf0uS3-0_h95Fuw&oe=6A728B6D",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/702620709_736737096163940_622620403705063769_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KGtxIEe7RJ4Q7kNvwEZ-0U4&_nc_oc=Adpb4s3oI3CYJzUvkmJAolaZzga2afZqXQnaKOgXLq43s2-PxfyGEKC8ZUYIReHNssK9HIgqb62BmjsRrnJjsvcx&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=ejFaPIgWRJEWxgqFvZb_PA&_nc_tpa=Q5bMBQFmG_s3UFxub-IBmnkbROLShenzBBBXMD8BqtErhgLK_sLvpwyIsmZK7JxUvnVeVYb-q24h1GNjbw&oh=00_AQHtYfT8IsgdPuSNVlDKSviEIFwSiA6DeFraIjRAv531OA&oe=6A74152D",
       "timestamp": "2026-05-21T21:18:13+0000",
       "diaSemana": 4,
       "hora": 18,
@@ -1078,7 +1100,7 @@
       "formato": "Reel",
       "legenda": "Pagar por anos e ver a dívida continuar igual não é normal.\n#cartãoconsignado #direitobancario #superendividamento",
       "permalink": "https://www.instagram.com/reel/DYku8CCBM8d/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/705031437_18224640253316302_5463223899863487500_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=o6XVTC-aRosQ7kNvwE8Qeyt&_nc_oc=AdrpT9gC3YG30t1aURlKupMb7a8VlaYf434OiliCxDPZYZ4UyuVMcnoCEE1U1Qc8jpWJQKk3UTzMAghR02jMikvD&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QDMClYAzcGdjIPoA4CWmLg&_nc_tpa=Q5bMBQFnd6tmZ_vUkepJuX61TR-4ANm1ypm0B2TGqyI7CVz4mSZo4ON709gJsC0wsKoEXunK85eXeLYtJw&oh=00_AQF2fOpqcDzshulGuL7Sn5ugPFb947DtkVp9QHsAgyPMUg&oe=6A72910D",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/705031437_18224640253316302_5463223899863487500_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kHK0N4erV5wQ7kNvwELtQLh&_nc_oc=Adp6RP_WF3Uqjo5T1ApG30Yer_UmA9vFfdy0VmrHoOjIHskGCwUKpLIzj-K5SS_ddgXCG543MjHo62RsbhxU9KCc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=ejFaPIgWRJEWxgqFvZb_PA&_nc_tpa=Q5bMBQHtOHAcdIgLMgX51NOflWD8GHsMZjCTIduwW4L0aIWU_losyRU-3yL-j6NuNu7qQ5TySQFDUMYLqQ&oh=00_AQEuo53uCHlcF_KYBxEpgvapeMLWeRL_3UfQ1iVxlIIOtA&oe=6A741ACD",
       "timestamp": "2026-05-20T20:30:10+0000",
       "diaSemana": 3,
       "hora": 17,
@@ -1096,7 +1118,7 @@
       "formato": "Reel",
       "legenda": "Tem proposta bancária que parece ajuda… mas só parece mesmo! \n\n#humorjuridico #direitobancario #superendividamento",
       "permalink": "https://www.instagram.com/reel/DYiJ-hEhEGn/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/701119782_2075930886644606_1490964279152242668_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-CGrO9f49x0Q7kNvwFCbYsw&_nc_oc=Adq7l3zTBC6hLBEC3MeSxQjgpFz0s6XGCzZ1CIPyDnSZ_YF93VpdTEE8AEv2C7p90O3ve2LC6EopaSfdcQWAqUfv&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QDMClYAzcGdjIPoA4CWmLg&_nc_tpa=Q5bMBQHpn-MrNgfKstx5NdkLRbTSM1U5e67xhM_E_gR79cWgCctGWLVHizLEqiaBeY47bELCHbKDyqPfrw&oh=00_AQEhXT7FbWg9LWzukl5D2nIJ1CcS_JpttcWKDSCDYprNhA&oe=6A728514",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/701119782_2075930886644606_1490964279152242668_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=nj-4ndOlyNYQ7kNvwERWrLQ&_nc_oc=AdqU_FZIQHSBkIoiIKHgv7NvXIoXLRMEvCsvM1JP1ec-eZ8FFt-mXlopYXk7mJNzGf98g_fBbhUOWYJ_1kckFRNh&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=ejFaPIgWRJEWxgqFvZb_PA&_nc_tpa=Q5bMBQFt4UOGU9Vk0CLQvaGTQDn4FV-44x7Ks5wO9vnhm_aJmgEg5ZCEntSO2bBxf4fajcXzpxTZiZ1J6A&oh=00_AQEqOu-MQ9X_ZqitFxqVrAxDzJoqVuPoav7tSryJAnyEBQ&oe=6A740ED4",
       "timestamp": "2026-05-19T20:30:08+0000",
       "diaSemana": 2,
       "hora": 17,
@@ -1114,7 +1136,7 @@
       "formato": "Reel",
       "legenda": "Você trabalha o mês inteiro e sente que o salário já chega comprometido?\nO consignado pode virar uma bola de neve muito mais rápido do que parece. Existe solução e cada caso precisa ser analisado da forma certa. ✨\n\n#superendividamento #consignado #direitobancario",
       "permalink": "https://www.instagram.com/reel/DYfkR5pBjVy/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/702603196_1645929626652707_1224047853717521058_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AXygwGy64OEQ7kNvwGEv33v&_nc_oc=AdpkUB0GWGjKSPyPPpHB8afcCIijIPfEyVANLXpODpBiIUzXI7EWdC2yDFS8OX2cxe9bbzJXKhZ98RWYVJVxXxB6&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QDMClYAzcGdjIPoA4CWmLg&_nc_tpa=Q5bMBQERXpq2m1LTNiMLCW0dLNuyA7AMiq6119t1Rt3ceucKIVeFrkP0ToJARiIVFVqw5cmnC8irAuT4lA&oh=00_AQFvoPtUFfWHZErC6oihB3oXR0rftCXL39-I9CfYp6rUFw&oe=6A727FA3",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/702603196_1645929626652707_1224047853717521058_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AXygwGy64OEQ7kNvwEGYsR-&_nc_oc=AdpE_N4acLsvMV2fxYRMpkaD3T5FPgBmuoMxcccLNEiTosnrvuI3rjb-OLKk1GXckNahgE9uYi5vTVrE0R5g_L4q&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=ejFaPIgWRJEWxgqFvZb_PA&_nc_tpa=Q5bMBQHD10bvqagx_Z0UGWtEXLkKanSOke-sgvyZ8gYPORaZejaOWgAUhIP8IyfhkMHknmalW7Frvwb8mQ&oh=00_AQGF6UVOvihY4-_cYj31j28aeJptndNgannDvrhqn4N3kg&oe=6A740963",
       "timestamp": "2026-05-18T20:22:11+0000",
       "diaSemana": 1,
       "hora": 17,
@@ -1132,7 +1154,7 @@
       "formato": "Reel",
       "legenda": "Esses áudios fazem meu dia 😂 \n\n#advocacia",
       "permalink": "https://www.instagram.com/reel/DYVOpkfByn9/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/695899022_2152685602189887_8646720769797360814_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=bUqG5bG_mJMQ7kNvwFtVUdV&_nc_oc=AdotCGC-2fGQj7cJLiAb7k18MdegQqxy8fgunwNMOgwUFfo7JveMczAMVCpSMD-iPOkyq1T2DvhzeKROYsuXaILT&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QDMClYAzcGdjIPoA4CWmLg&_nc_tpa=Q5bMBQHi6T3rwG2pfPkplYj28fm18ec_E8FOUd0Vz6zbAe5x3Hv1kNEzPt9Ih4AhKGULrbPW-qx7k-0blA&oh=00_AQE83bYoPxnyomI3qiG9GaQnZHyLqt4yGz0UEWVNPnoi7Q&oe=6A72731B",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/695899022_2152685602189887_8646720769797360814_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=8yO0GOKsM9AQ7kNvwEpEljH&_nc_oc=AdrdERXmvab2VRK-f2pPk5GwZpkndV9V7Cx2_DOI45RuSBPqT2YdzpzKGxMBZ8_YEPCspAI10ZzkemfqnpmsiMu0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=ejFaPIgWRJEWxgqFvZb_PA&_nc_tpa=Q5bMBQHoerUUyS4pvf7XZzB_Bq-wlblAeDfks6YkWQvDvzrj5YO56mVWexCPwQ7VeNPO9lltE4u65uEaug&oh=00_AQFfS2bBFbaot_5zivvyAKOgIlDZNWDl1HcHYqKXhuqTiw&oe=6A73FCDB",
       "timestamp": "2026-05-14T20:00:09+0000",
       "diaSemana": 4,
       "hora": 17,
@@ -1150,7 +1172,7 @@
       "formato": "Reel",
       "legenda": "Tudo nessa vida é questão de equilíbrio 😅 \n\n#caroxbarato",
       "permalink": "https://www.instagram.com/reel/DYQJPHhBwB6/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/687246326_1123004406699919_8624633739484299630_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-8RjoQ96zDcQ7kNvwHWzrKb&_nc_oc=AdoGP16Me78bkFcgu4VBuTvlF5Tp-ZZgjLyHSmISQnPDKcFQd2ACza8GKbLVxB2yPIbqire915E0Pm_I6FoWzIPH&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QDMClYAzcGdjIPoA4CWmLg&_nc_tpa=Q5bMBQESRG3ZI30Uz65wKfEwDcbBkw8vETUvb1PxOeroMVoRLmIslNq_v0PcMYE5_G3A2rwIbP5q8W6BgA&oh=00_AQES6iKcUEAzFsJLMuF7ooOwlVBGtzWoZ6WCjS8XVXaYxw&oe=6A727008",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/687246326_1123004406699919_8624633739484299630_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-8RjoQ96zDcQ7kNvwH1vMvs&_nc_oc=AdrL3hqVkPx3jevdgMOajh41lFXjWUCz2uRT5A-xP6C4L1dqPXEsNYzZW5cjnj00CryexbxSnymDGUfSNU6Cm14L&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=ejFaPIgWRJEWxgqFvZb_PA&_nc_tpa=Q5bMBQHIAEB2Qormc7PQTYg6NQPakjjM4GIHMM0zY3hThBXkHMrOr9w_Mb7LIYPK_5beHcMBPfEkdkzBeg&oh=00_AQGUKtTbkurjKD46CKtdXLQLFuFU980bgRHKrRUGqS8QJA&oe=6A73F9C8",
       "timestamp": "2026-05-12T20:37:45+0000",
       "diaSemana": 2,
       "hora": 17,
@@ -1168,7 +1190,7 @@
       "formato": "Reel",
       "legenda": "Se o banco não deu baixa no gravame, você pode exigir a regularização e até buscar seus direitos.\n\n#gravame #direitobancario #veiculo",
       "permalink": "https://www.instagram.com/reel/DYNjxNThai5/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/693458655_972238718730354_8095760837052876821_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=MBBBxkmDl6wQ7kNvwHlCF54&_nc_oc=AdpPUESUa9A6Io-PTmNmwN3ZJ_AaufKGfFinqkCN63k30ZIhRN7emgCy3hgeSINBNrujhofCKPSKM1l900OZhSZC&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QDMClYAzcGdjIPoA4CWmLg&_nc_tpa=Q5bMBQHzEaXpVGTPj2d3lti5kNGrhWSCDOZfV2-6xTTG__FyWlLxYzjSV-EbSCLFhAH8cJGSJ7j7-2Q28g&oh=00_AQF2EnJ8YDgriR7R50_dQlGbjmdvEdM33ke54wy4Gvtumg&oe=6A728ACE",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/693458655_972238718730354_8095760837052876821_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5FzYS23BJFIQ7kNvwF545MZ&_nc_oc=AdoEuLHgv0Bhn2UPY24fI4jo7u7yUYBQSwSEgf0ZrJp7CH5Ob331T3H3-r-z8nSRDknUnWE-z6765W-4GgEkK_Gc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=ejFaPIgWRJEWxgqFvZb_PA&_nc_tpa=Q5bMBQH6y2rKTBOcmgQsprm8rErmVqrTCcAtMef68eVvcNEohT6AWu57rI4sd6P5BWiXQUuPMCSzOPVknQ&oh=00_AQHpOS5-EHtWoc4ugHgiLeITFcJdPegCDL4c9y_ZIRy75Q&oe=6A74148E",
       "timestamp": "2026-05-11T20:30:10+0000",
       "diaSemana": 1,
       "hora": 17,
@@ -1176,113 +1198,95 @@
       "comentarios": 1,
       "salvos": 1,
       "compartilhamentos": 5,
-      "alcance": 825,
+      "alcance": 826,
       "interacoes": 27,
-      "visualizacoes": 1172,
+      "visualizacoes": 1174,
       "engajamento": 3.27
-    },
-    {
-      "id": "18061937699458835",
-      "formato": "Reel",
-      "legenda": "Como advogadas, vemos muitas mulheres enfrentando dívidas e problemas financeiros após separação ou falecimento do companheiro. Independência financeira também é proteção para você e para seus filhos.\n\n#diadasmaes #independenciafinanceira #direitobancario",
-      "permalink": "https://www.instagram.com/reel/DYKkCUSx_vg/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/670656494_987218687590466_3303994121714217757_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KCWsB6s09Y4Q7kNvwHhj8gk&_nc_oc=Adrgu57f1QFc5J2QEjZEsRcunHiJvAT41Ngw7bYNgqcLqNSMiajgPjWF2Ej8ppltFrJ3LfpaOK8bpC5wyE3Vy10T&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QDMClYAzcGdjIPoA4CWmLg&_nc_tpa=Q5bMBQHCxpsSZTEZNZjsi0a7fL472ZjKXR9tvxs0Jn62JJfn2MSRFytsshqQr2OJOor7qHfzfwE9qmsX6w&oh=00_AQEAikN1OoewfcJPc0YGa-ivskSfRcdFENIBHiQsbgGxgQ&oe=6A727268",
-      "timestamp": "2026-05-10T16:36:55+0000",
-      "diaSemana": 0,
-      "hora": 13,
-      "likes": 17,
-      "comentarios": 0,
-      "salvos": 0,
-      "compartilhamentos": 3,
-      "alcance": 664,
-      "interacoes": 22,
-      "visualizacoes": 884,
-      "engajamento": 3.31
     }
   ],
   "porFormato": [
     {
       "formato": "Reel",
       "posts": 59,
-      "engajamentoMedio": 4.26
+      "engajamentoMedio": 4.38
     },
     {
       "formato": "Foto",
       "posts": 1,
-      "engajamentoMedio": 2.99
+      "engajamentoMedio": 3.1
     }
   ],
   "mapaDeCalor": [
     {
+      "dia": 5,
+      "hora": 12,
+      "engajamentoMedio": 6.57,
+      "posts": 5
+    },
+    {
       "dia": 4,
       "hora": 13,
-      "engajamentoMedio": 9.02,
+      "engajamentoMedio": 8.77,
       "posts": 1
     },
     {
       "dia": 3,
       "hora": 17,
-      "engajamentoMedio": 5.22,
+      "engajamentoMedio": 5.28,
       "posts": 10
     },
     {
       "dia": 2,
       "hora": 17,
-      "engajamentoMedio": 3.95,
+      "engajamentoMedio": 3.99,
       "posts": 9
     },
     {
       "dia": 1,
       "hora": 18,
-      "engajamentoMedio": 2.68,
+      "engajamentoMedio": 2.72,
       "posts": 1
     },
     {
       "dia": 5,
       "hora": 14,
-      "engajamentoMedio": 2.95,
+      "engajamentoMedio": 3.01,
       "posts": 2
     },
     {
       "dia": 4,
       "hora": 17,
-      "engajamentoMedio": 4.3,
+      "engajamentoMedio": 4.32,
       "posts": 10
     },
     {
       "dia": 2,
       "hora": 16,
-      "engajamentoMedio": 2.53,
+      "engajamentoMedio": 2.57,
       "posts": 1
     },
     {
       "dia": 1,
       "hora": 17,
-      "engajamentoMedio": 3.79,
+      "engajamentoMedio": 3.8,
       "posts": 10
-    },
-    {
-      "dia": 5,
-      "hora": 12,
-      "engajamentoMedio": 5.92,
-      "posts": 4
     },
     {
       "dia": 3,
       "hora": 13,
-      "engajamentoMedio": 2.99,
+      "engajamentoMedio": 3.1,
       "posts": 1
     },
     {
       "dia": 6,
       "hora": 15,
-      "engajamentoMedio": 4.95,
+      "engajamentoMedio": 4.99,
       "posts": 1
     },
     {
       "dia": 5,
       "hora": 17,
-      "engajamentoMedio": 4.15,
+      "engajamentoMedio": 4.14,
       "posts": 1
     },
     {
@@ -1326,57 +1330,69 @@
       "hora": 18,
       "engajamentoMedio": 4.74,
       "posts": 1
-    },
-    {
-      "dia": 0,
-      "hora": 13,
-      "engajamentoMedio": 3.31,
-      "posts": 1
     }
   ],
   "topPosts": [
+    {
+      "id": "18073696175704976",
+      "formato": "Reel",
+      "legenda": "Bate bola com advogada 💅\n\n#batebola #maríagabriela #advocacia",
+      "permalink": "https://www.instagram.com/reel/DbdiZbBhMOz/",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/759622369_18232645294316302_8725740884093708012_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ahXnwAhkmD4Q7kNvwHtYPjk&_nc_oc=AdqtXdDVx3tONbwMiOyAUFeIhMKkWIqu2fSWXYa2hHLu17dCo-IfntYxgdoGelCd_AmZTQ242BVVKxgtILBOmcXG&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGX3BsJUP6vWYjXEPEGHltOycd2hAzCfxamcxSqfHNU_6JMNawQtcGSR2lnq2h8VT8WTA4IOoWntA&oh=00_AQH0V8DXPwekCZmu7Ej_CtnabPXFVgaLRqDyEDhBxTH6kg&oe=6A7410D5",
+      "timestamp": "2026-07-31T15:00:07+0000",
+      "diaSemana": 5,
+      "hora": 12,
+      "likes": 118,
+      "comentarios": 6,
+      "salvos": 8,
+      "compartilhamentos": 33,
+      "alcance": 1865,
+      "interacoes": 168,
+      "visualizacoes": 2793,
+      "engajamento": 9.01
+    },
     {
       "id": "18014876744878384",
       "formato": "Reel",
       "legenda": "E a voz mais grave que um trombone\n \n\n#advocacia #paccolaepelegrini #homeoffice",
       "permalink": "https://www.instagram.com/reel/Dbbf8MRBdqk/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/760701341_18232545007316302_7607265626165752273_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ShpPWvX3UcsQ7kNvwGIcR54&_nc_oc=AdqZniGytHpJhDej7MDMfxfOOhnQGSU1N8IzV0dEASrBGypFZuGXlEBQgqIg_Olmamm8LXVrzhwoclLjUlEhqDLc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQFRnWA22vSHCXMcSgeVrTZUz1TLIFFFWme0P7ag7SkDFSqd2xN6YgRanZiNU1q-WG64Hax0auG7aw&oh=00_AQE1mKd0p-OBsIinmyB7T3jp23aw_fyQXBUyT2kAFi8SDg&oe=6A727557",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/760701341_18232545007316302_7607265626165752273_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ShpPWvX3UcsQ7kNvwFk0Jgr&_nc_oc=Adp_naTr986tp8Nute9Oh-UXElDztcfkjLDaUDKM9THtIP3oU9Xf_zmvYLgw9CLl1AGA_ljtNqR_6KBQFi8ILBNm&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQGisZsN0Ye96zGn39adwxnYBeaJX1PaN-qOnEQltupD4SteVRNQ85UtdJ5c1ZuMOl-jCWGvyckZDg&oh=00_AQEzCpiLr7JqCHscHSrc8yLy26iYlQDNO62YHNxhN3aNYA&oe=6A73FF17",
       "timestamp": "2026-07-30T16:56:47+0000",
       "diaSemana": 4,
       "hora": 13,
-      "likes": 131,
+      "likes": 133,
       "comentarios": 9,
       "salvos": 1,
       "compartilhamentos": 18,
-      "alcance": 1796,
-      "interacoes": 162,
-      "visualizacoes": 2636,
-      "engajamento": 9.02
+      "alcance": 1870,
+      "interacoes": 164,
+      "visualizacoes": 2761,
+      "engajamento": 8.77
     },
     {
       "id": "18052818137782889",
       "formato": "Reel",
       "legenda": "às vezes a experiência vem de anos… ou de responder a mesma pergunta 50 vezes por dia. 😂\n\n#trabalho #humor #escritorio",
       "permalink": "https://www.instagram.com/reel/Da04A4qBhBE/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/748552718_18230833342316302_5194955506119227547_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=W-MNusy4obUQ7kNvwGTGXV3&_nc_oc=AdpyO_K7XiOqOX_RImAxwAknvkaKr3aA3-x8nrgq50Vp24kHeS4NtRSk-mXpT8OrifOvW-2GVPpOgRe8nGlFKgAH&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHJK9rMG-4UWhHmSvu_8v6Tl1MKytd__ECTL0wFynfVPVcKuc3pjZ7yuG93TopC75NuCtu5iEx04A&oh=00_AQFJoP-uVeZOAZPn1EOY1qbJvTL7ui20RMWZ4ISc0BOBXg&oe=6A7294AE",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/748552718_18230833342316302_5194955506119227547_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=HXow6E28qMUQ7kNvwEjrEqx&_nc_oc=AdoUsDQdpI1mZmSyUXAIpPX1lQNkOgIPfwr0fATNgXJ7wnllALYfHBMIPDdsqonAp_hXPgadak-YNTmlLn1bUfWK&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQE3_UgL3oDqHBqTmn1uh_n14ios6FF1hQ-B9dSruPZWt9ZMx0BqR5R-UtQZUGLi5lyNuyw1VpLY2g&oh=00_AQHuBFWGzHw2jGalPUE0AKpplkhO_2HpyTYUmylZEjrJnA&oe=6A741E6E",
       "timestamp": "2026-07-15T20:00:06+0000",
       "diaSemana": 3,
       "hora": 17,
-      "likes": 105,
+      "likes": 106,
       "comentarios": 4,
       "salvos": 8,
-      "compartilhamentos": 87,
-      "alcance": 2535,
-      "interacoes": 207,
-      "visualizacoes": 3468,
-      "engajamento": 8.17
+      "compartilhamentos": 88,
+      "alcance": 2549,
+      "interacoes": 209,
+      "visualizacoes": 3490,
+      "engajamento": 8.2
     },
     {
       "id": "18137664073543647",
       "formato": "Reel",
       "legenda": "10 mil pessoas caminhando com a gente. \nCada mensagem, compartilhamento, comentário e apoio fizeram parte dessa conquista.\n\nObrigada por acreditarem no nosso trabalho, no nosso propósito e por fazerem parte da nossa história. Que venham os próximos capítulos, conquistas e muitos ",
       "permalink": "https://www.instagram.com/reel/DYpWcOfRQN2/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/705127843_2056570228569915_8735078697861466076_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Yg4zrf49-wEQ7kNvwHg3KYr&_nc_oc=Adr2dWdqub_iBK6DQoJFhz8RDY2phTGSJI-YRNem7DVb5HqwghKe1U1FovQYMyl5KGnmsaRB1zLLapMb7scfvrzi&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QDMClYAzcGdjIPoA4CWmLg&_nc_tpa=Q5bMBQE8lviFU5ElVH5r3vO6NutwtEFkjeceKEWDXmw9j_jvnubJzHm-P0ta5tWnS5PrsLzPv-T54uyj8Q&oh=00_AQGWOf7twz1PycW2MA3euAuObRNfAOwua-x1I1aKYgDRyQ&oe=6A7297CD",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/705127843_2056570228569915_8735078697861466076_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Yg4zrf49-wEQ7kNvwGECA3V&_nc_oc=AdqvxCVag8zMjQ6HLKCdFEQRu_ZzPMOlypNLlR61615hlE2TRZb47aSyHFW1bvgNMbiZrqzret4IuZDstNGmC2kO&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=ejFaPIgWRJEWxgqFvZb_PA&_nc_tpa=Q5bMBQG6vom93vFs7OqAo-WsvZSCN81UKDV0gaeQUJw_XRH24kz8VQ1hT-gkyyh5mYCemxexiMnc-MnD_A&oh=00_AQHAtkH-0J9CgCsOTDmWlbmDKxJcA8C1fKErC5nQyDY3lg&oe=6A74218D",
       "timestamp": "2026-05-22T15:34:46+0000",
       "diaSemana": 5,
       "hora": 12,
@@ -1390,40 +1406,22 @@
       "engajamento": 7.94
     },
     {
-      "id": "17926962600318238",
-      "formato": "Reel",
-      "legenda": "Pagar por anos e ver a dívida continuar igual não é normal.\n#cartãoconsignado #direitobancario #superendividamento",
-      "permalink": "https://www.instagram.com/reel/DYku8CCBM8d/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/705031437_18224640253316302_5463223899863487500_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=o6XVTC-aRosQ7kNvwE8Qeyt&_nc_oc=AdrpT9gC3YG30t1aURlKupMb7a8VlaYf434OiliCxDPZYZ4UyuVMcnoCEE1U1Qc8jpWJQKk3UTzMAghR02jMikvD&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QDMClYAzcGdjIPoA4CWmLg&_nc_tpa=Q5bMBQFnd6tmZ_vUkepJuX61TR-4ANm1ypm0B2TGqyI7CVz4mSZo4ON709gJsC0wsKoEXunK85eXeLYtJw&oh=00_AQF2fOpqcDzshulGuL7Sn5ugPFb947DtkVp9QHsAgyPMUg&oe=6A72910D",
-      "timestamp": "2026-05-20T20:30:10+0000",
-      "diaSemana": 3,
-      "hora": 17,
-      "likes": 31,
-      "comentarios": 6,
-      "salvos": 4,
-      "compartilhamentos": 10,
-      "alcance": 770,
-      "interacoes": 57,
-      "visualizacoes": 939,
-      "engajamento": 7.4
-    },
-    {
       "id": "18122145697764428",
       "formato": "Reel",
       "legenda": "Tem horas que parece que a gente tá falando outra língua kkkkkkk",
       "permalink": "https://www.instagram.com/reel/DbJhFFABCIN/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/754068843_18231792052316302_8424665391091538142_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=LmHRTEAzfx4Q7kNvwH3nWAi&_nc_oc=AdqiFJjD2COU_UTw5kpr1ZbLo6_mP-0pX343Z4COVjS25tDOtL2MyENB-olFKe9eGOxGk_i3LqVtiEMR2U-hLxks&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQGmLioTCmYV2ZKK1UaL-fB3mSmaxvizuzLlfX02J9ugtS3Nf-QPX2CG_YVzOEfn-u7ZZP5mrgilxw&oh=00_AQFrBOuYS6rSd7gE2IwbaXRpIPh_DONa2NAd_71VpEcPIQ&oe=6A72908F",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/754068843_18231792052316302_8424665391091538142_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2r2RB9OD9jAQ7kNvwF07MPT&_nc_oc=Adol13Q07mWNUzB9uDi5vvaa-0w1fnP6xWJvSnXdiJydnttMfwfv0NTStjjGl9Rl8XSdxX1JjfArQzcpFxzRDjia&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHfaqIRE4meZ56hnt7-HrHO1AvsfXiAHwLiX9ih6qEJS1t2luLvn72gwGibRK-T4KipDxoAbteGcQ&oh=00_AQFlIYI5oqrgx4IDAa9jncBSo0hUtwDDpNoRXhuBNHzLZQ&oe=6A741A4F",
       "timestamp": "2026-07-23T20:25:31+0000",
       "diaSemana": 4,
       "hora": 17,
-      "likes": 121,
+      "likes": 124,
       "comentarios": 10,
       "salvos": 8,
       "compartilhamentos": 20,
-      "alcance": 2219,
-      "interacoes": 164,
-      "visualizacoes": 3164,
-      "engajamento": 7.39
+      "alcance": 2255,
+      "interacoes": 167,
+      "visualizacoes": 3211,
+      "engajamento": 7.41
     }
   ],
   "piorPosts": [
@@ -1432,7 +1430,7 @@
       "formato": "Reel",
       "legenda": "Ser demitido já é difícil. Não saia sem conferir seus direitos.\n#demissão #clt #direitotrabalhista",
       "permalink": "https://www.instagram.com/reel/DZvWdXpBsSW/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/726704653_18227904595316302_988631609520166750_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rZICkrR2S2MQ7kNvwFd_3o7&_nc_oc=AdrlTJRVrxhbGWvsGMQhQXEI8S3ByPKlXPZCafsAkCfkwwmr5SKA5pCHEu9u9aYoTnsPP0unKEzqt9VyIoC_EwyE&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHgykxBVG02XYtiQKBL-0Jc6jJ0a4BSqcRDQ95_32UQdy3xN_O2Kxue8m67qblbSngVZgqsmJ_Fmg&oh=00_AQG1O2QTk1C3_AlNuYuOEer72M6PMCbXaS3tyyRpR8H-Tw&oe=6A7283A9",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/726704653_18227904595316302_988631609520166750_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rrx1ioZdUgQQ7kNvwEOScMn&_nc_oc=AdrHLEdu1aM87HEaJjWrkCsY09hGyYlbw2jTRHWyLHiCexKn1FoSEZYdJ8ssfiUiCWKOLxfeZWqNhdF1BXiP9P8P&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHLoYq2vgzbhD62LvUkLPfnykeQtaBrLu7pM2eI4xLrwzxnKl07v7hHPigyqfsAFTDLgAkruvglfA&oh=00_AQHRGgXFvA8S0HbnzyA1rTZdzbV93aNoqYg9YYkPuT3Smw&oe=6A740D69",
       "timestamp": "2026-06-18T20:00:11+0000",
       "diaSemana": 4,
       "hora": 17,
@@ -1450,7 +1448,7 @@
       "formato": "Reel",
       "legenda": "Nem tudo que falam no trabalho é verdade.\n#direitotrabalhista #clt #trabalhador",
       "permalink": "https://www.instagram.com/reel/DZqVCcYhqXn/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/726508429_2274371310035701_5556791651126015577_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Iui4MpOVFPUQ7kNvwEGadql&_nc_oc=AdpU1SuFFY-zjgp0RMLH86_XGgDJjpvcArHdAFXXaIOekMoI4Lv1-r4Ng0Co76d2AItL6tPHqQQ-4dG_-3p9azne&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQEljI7Y1jZhW_uvsr6bvY7jS1y6CXTuoq_nKA0X0-oSwWBisOYPsVB4zSarmyYuBThq8NcDw8rTug&oh=00_AQENX4mULPs1D2GF8N7eornsGDRzGFbmos_63Euz8GBFJA&oe=6A7279A8",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/726508429_2274371310035701_5556791651126015577_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Iui4MpOVFPUQ7kNvwGnPGDQ&_nc_oc=AdoH8kgeH6Kv2UCy2Kv2MyypknuOvZX163NZvfA49dT84LmpxAaMIK-LPV0BAMyXx4S_T7KO-SlGWKb2cisInFcT&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQHBhokQbkCzYsLkZ2QTxz4juSlRna2VUaBqa_7y7fYJOjdjFECT1-Bj8AVkJJ4LeYoLjgnqpwByeQ&oh=00_AQEg6mwv8qV1XF3PQF_N7odJhvghmR9hBm5qbcmE5eDraQ&oe=6A740368",
       "timestamp": "2026-06-16T21:12:21+0000",
       "diaSemana": 2,
       "hora": 18,
@@ -1468,7 +1466,7 @@
       "formato": "Reel",
       "legenda": "Recebeu uma intimação? Calma.\n\nNem sempre a dívida está correta, nem sempre a cobrança é válida e nem sempre o banco tem razão.\n\nNa parte 2, mostramos o que pode ser feito para construir uma defesa estratégica.\n\n#direitobancario #empresario #execucaobancaria",
       "permalink": "https://www.instagram.com/reel/DZYRt28BCoP/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/726955014_18227904787316302_4425811253213963309_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=j6jWa8I_zaQQ7kNvwGP0Axg&_nc_oc=Adow-Q6Q6g6M1gCr4QTunkLpK6SzwYjyI-XNd_rvgN44Z28L7TXb7z2MHCT9Wf7yzY8V0Fc7PZ7FelK-TgOrwz5p&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQHFvTgt-BYVw04u22cRx7Y-z1KkxW-Uae4MZPyGlU-Ln2kLCx15UyJ_5wvu_GhagqbSNZx-12bwkg&oh=00_AQHAFYnDQ18Rs9zw7CAxCYH4puwFgZYXnxxtI9ah8ezNWg&oe=6A729172",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/726955014_18227904787316302_4425811253213963309_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-S_NKSLYzGkQ7kNvwEqq4ob&_nc_oc=Adr22fdZgekMGhlV63Qb_UupNWc8qsA2LDVVA0W2VrmaaBk3X1ilwtUnuv7AJScmKSf5cLJN2Es27ygXZKHE_SKz&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQElgzszkrIi7Svxhp5jjsz4hvwi3mLOmGj7e-nNX4gwpmr1efMJFtaFzXY9WU3ZlQ7GQRlKGoZGcg&oh=00_AQGRKITOoyzxIZI42-5VX1PJw5x_jYgSUByZ2yDEBoAUCw&oe=6A741B32",
       "timestamp": "2026-06-09T21:03:43+0000",
       "diaSemana": 2,
       "hora": 18,
@@ -1486,7 +1484,7 @@
       "formato": "Reel",
       "legenda": "Muitos empresários só procuram ajuda quando a situação já saiu do controle, não seja mais um deles. ⚖️\n\n #capitaldegiro #empresario #direitobancario #emprestimo",
       "permalink": "https://www.instagram.com/reel/DZDoegmO04z/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/713704328_18225997537316302_6409345557023796587_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NY7ZSWKD7SEQ7kNvwEGbbA1&_nc_oc=Adog7i34D0C-lRMuxdRJSBqWWUQmWqDB_7D_oZ4cyNKp0Jdk67rROMNVYbge5zn6gL6zwFIqKm_9b98XoYtEyrfa&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQEsJozVnax8WsOX2ygVdwxPYDdCUwPnKAWKuKmSv6sXQcky9J2K8hw3qh1qRZBzoS8pWMWsnCvUyA&oh=00_AQEnOIHbK3dEFKiOeCd7sonkkJeylf0SGGJhcB-8y5US-A&oe=6A7275E4",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/713704328_18225997537316302_6409345557023796587_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=FAX-WpDr5HMQ7kNvwGiuYQo&_nc_oc=AdrANHCuCPPj63nly7dCvueFRBRiP9sMNMKRyt-gt1oDn2DDRFaqrcuRSchAuoufN5UEXy1IownPTlEaCfPkSrUP&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=54P8VVLJBg9rSScwDXdWnA&_nc_tpa=Q5bMBQEhV6IddM8wrz5tJ1A9kVJQyWbh_tFfHYoeiKbHJceynk59vcvdp450zz-Pdx0903B1gk989Sk-pw&oh=00_AQFUEgQdwrHVajYREA0DWQ5jSSu6R7DpRAX8212aKtb4_g&oe=6A73FFA4",
       "timestamp": "2026-06-01T20:30:09+0000",
       "diaSemana": 1,
       "hora": 17,
@@ -1500,22 +1498,22 @@
       "engajamento": 2.33
     },
     {
-      "id": "18095855660358813",
+      "id": "18083708798570679",
       "formato": "Reel",
-      "legenda": "Se um medicamento essencial para o seu tratamento foi negado, não aceite a resposta sem antes entender se essa negativa pode ser questionada.\n #direitodopaciente #medicamentoaltocusto",
-      "permalink": "https://www.instagram.com/reel/DayU0XMhKML/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/746984309_18230742664316302_5522048612491319719_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=VaHcXk1XYmgQ7kNvwERt6ZJ&_nc_oc=AdrcnKanm2xSAAxksAm8lJ18b43v4uiILxfsfoxh_wmPv0N0z-1S5KfnUBmG6E-8MQZQlfGT0Ekbx4fDVRDIAp3o&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=QNFA3F7y8gRu3STIggxuXw&_nc_tpa=Q5bMBQF7Lry-jjuheRbWqQszfnxjFcLdfHELuYO3D3Dmz2FZkwEsQQ2tkMHTjo-Wf1VILoHE1gEUTq-YFQ&oh=00_AQE-cE0be4HNmOqIviRYI-6bqnY5NyhjruSmLE6z2-5a5g&oe=6A72694E",
-      "timestamp": "2026-07-14T20:20:12+0000",
+      "legenda": "Tem proposta bancária que parece ajuda… mas só parece mesmo! \n\n#humorjuridico #direitobancario #superendividamento",
+      "permalink": "https://www.instagram.com/reel/DYiJ-hEhEGn/",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/701119782_2075930886644606_1490964279152242668_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=nj-4ndOlyNYQ7kNvwERWrLQ&_nc_oc=AdqU_FZIQHSBkIoiIKHgv7NvXIoXLRMEvCsvM1JP1ec-eZ8FFt-mXlopYXk7mJNzGf98g_fBbhUOWYJ_1kckFRNh&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=ejFaPIgWRJEWxgqFvZb_PA&_nc_tpa=Q5bMBQFt4UOGU9Vk0CLQvaGTQDn4FV-44x7Ks5wO9vnhm_aJmgEg5ZCEntSO2bBxf4fajcXzpxTZiZ1J6A&oh=00_AQEqOu-MQ9X_ZqitFxqVrAxDzJoqVuPoav7tSryJAnyEBQ&oe=6A740ED4",
+      "timestamp": "2026-05-19T20:30:08+0000",
       "diaSemana": 2,
       "hora": 17,
-      "likes": 12,
-      "comentarios": 1,
-      "salvos": 1,
-      "compartilhamentos": 1,
-      "alcance": 762,
-      "interacoes": 18,
-      "visualizacoes": 1049,
-      "engajamento": 2.36
+      "likes": 46,
+      "comentarios": 2,
+      "salvos": 2,
+      "compartilhamentos": 11,
+      "alcance": 2656,
+      "interacoes": 65,
+      "visualizacoes": 3484,
+      "engajamento": 2.45
     }
   ],
   "topTodosTempos": [
@@ -1524,29 +1522,29 @@
       "formato": "Reel",
       "legenda": "Advogada boa faz assim! 😅 \n#advocacia",
       "permalink": "https://www.instagram.com/reel/DTQ8JpGkods/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/612944908_909054788376800_8818878139115335763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Cd9MTDvWS6IQ7kNvwFrtn1J&_nc_oc=Adpv8fAfd8w78x1p7a2Fwi-UUp7laAuoMxdX00UMaTGwrWfqAdfYUKVShN9nQ3L0masJIbDC5yfuITaGuao0tdD2&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=pjEbOhbfM92BVqi-olFrAQ&_nc_tpa=Q5bMBQGaSOpJoX94D4AYvWuHhIoIdrXyaAJwKQrcEtldA5cY-fyROWLjF9mK0xXePK5zfZ7qxBLivalo1Q&oh=00_AQEzIRB4eWTpjO2r3rxab_2vFF8juZnS9KH34CDU40Jj_w&oe=6A727BBD",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/612944908_909054788376800_8818878139115335763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Cd9MTDvWS6IQ7kNvwF0Q6oB&_nc_oc=AdoqNL4Ivbw3M3psODQB8fshzlhFa5trQfB2MzlrkPZsRfUSZ4qTyUFe4JzmCBu1muN_XVIEn4OTagkUsrblMANl&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=df5B2LZQSMdLQtJIaYHq6A&_nc_tpa=Q5bMBQEe6iXN8lWou4OHejax0CRhVuXMwDo69_MeWaBxxd3AG5du6L2nPkmQ8ck_Qz1Oz4cSSqXEQKPj3Q&oh=00_AQHeD5N9VSbLyC3Wj7acQo9yKi8sC2o4q1v6gc_--I3Kag&oe=6A74057D",
       "timestamp": "2026-01-08T21:25:18+0000",
-      "likes": 14636,
+      "likes": 14637,
       "comentarios": 145,
-      "interacoes": 14781
+      "interacoes": 14782
     },
     {
       "id": "18110765320562639",
       "formato": "Reel",
       "legenda": "Por trás de cada cliente, existe uma história!",
       "permalink": "https://www.instagram.com/reel/DT3Kdc9EVyy/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/621476726_2137202150352522_4931021056553556855_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=WLVrnaqlM3AQ7kNvwFwQESj&_nc_oc=AdrAMSDFBnS48oJjKnirLGTTE14zsgcnYQ7hzT4JCzMJXLpmRrJ50Nti5p078xKJgaUNU20-hveP10LkHwwQr1jI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=pjEbOhbfM92BVqi-olFrAQ&_nc_tpa=Q5bMBQHIw1qt5thGrTEAp7KeeOLjym1tB7fTlWaLpMB5mdlNGpuku8zv_G88RDoqJunVeyEqsT0Isxv47w&oh=00_AQGS5SET2PfmprmS_68Gq415x__5FIoe7lFlWX3ijyOQ7w&oe=6A7298FD",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/621476726_2137202150352522_4931021056553556855_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=WLVrnaqlM3AQ7kNvwFX7uTm&_nc_oc=AdqEFP2KVzCmP8svO691UtVJnG5GgCJ3pEuL2syeXbT7NpCYpzxUClsegtzbg7uS0jzQmgTCSeWquCGcuFBFAs6q&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=df5B2LZQSMdLQtJIaYHq6A&_nc_tpa=Q5bMBQHDDWXgoECCNVVXVi-mgVnka9cFgIlKtaJoLhiZtDsNpOmBD3RmEWDn9pj-Fq7-lt_s-47iZryNWg&oh=00_AQGbCnftzroXQw4bg06RbKGe7orpijzbyq0ZyVooFurbzw&oe=6A7422BD",
       "timestamp": "2026-01-23T17:41:42+0000",
-      "likes": 645,
+      "likes": 646,
       "comentarios": 2,
-      "interacoes": 647
+      "interacoes": 648
     },
     {
       "id": "17863965432655594",
       "formato": "Reel",
       "legenda": "Apenas observo \n\n#advocacia",
       "permalink": "https://www.instagram.com/reel/DWzb4moB7VV/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/659108795_1654908632601317_258906562698464959_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=BSPOooUufeYQ7kNvwFghakk&_nc_oc=AdrGt4p3vWRDndDeIkFVDz6-6neqW2WCk-TnnHj2hio2QH33MTC40WN85A7tcs13mhTO1P5Ua2kQZ2KanoOBZ8Uy&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=8ItPhkrntlnYDZ8mXVg7-A&_nc_tpa=Q5bMBQHusLwctssr377gEZvts7xgrjaw4_GDKd1HTu94bJQJmpfeyZpsIY9s9YhSuFbU-EowFi7JCicbtg&oh=00_AQE19oz3SY6c0dTXhzBrGFY3LX3d_g8TVpMsqlU6O63QLA&oe=6A726C02",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/659108795_1654908632601317_258906562698464959_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=OV5xsDgsRgAQ7kNvwFtuLs_&_nc_oc=AdqyVfQNNakk3wF1CiQZHuiXtaebeSDyN2q3voCF02VzNiC0ike2uGbVg5jAEQnzRfKknMGOCybuwu-API8bCG4g&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=-xiwDh9ejhCaMQ1RUJ_m5w&_nc_tpa=Q5bMBQEbgSAyh5DDWX8wGRVcABP5UirJBNZ-XMgQdOsTAiWrwPyb1XReQNUOCZBh2OtLyrvEvzFJLEvAzA&oh=00_AQFW9lRMMfpsamPTYF7SnEDKwKyIYn_OzthlPEAfQ_d7aQ&oe=6A73F5C2",
       "timestamp": "2026-04-06T20:30:02+0000",
       "likes": 486,
       "comentarios": 4,
@@ -1557,7 +1555,7 @@
       "formato": "Reel",
       "legenda": "O advogado no seu dia mais tranquilo 😅 \n#rellsfyp #advocacia",
       "permalink": "https://www.instagram.com/reel/DJ1uNoEN7Tn/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/499619328_1130163252251358_1458738244415717498_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=T-qQeByQKRoQ7kNvwGHg0Qi&_nc_oc=Ado_ZLLeby8a7cq4UqhuQxcJ-2LxWkgq1eET0GrPOIdw_mUmc2kwsLfYxpTUCxp5z_98qNZWefThhCm4aXNuT4Yt&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aarbfJDCZFK2-nTZPITa4g&_nc_tpa=Q5bMBQF2hoPOSko20hcgnj-em9toRmTa0dz0TKR66wh2Rn2gy_DSavAk20LQtrw3wJih4mDdxHbdUx0PpA&oh=00_AQF67G0rRt9wKdi5-DmKON9tIPrByOF5KQm6d3pMaiwePA&oe=6A7284C2",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/499619328_1130163252251358_1458738244415717498_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=T-qQeByQKRoQ7kNvwEFMEJh&_nc_oc=AdppMGavCcOMCMwvZwX8CZJpdXfYbMPeBDsSr0XUt9XmDl2wvADHvqLBNzI_46K-6CiYTl3l0kx-7FsnL-ii_QjU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=2aeI7zFskAhUqN4wqJVPOQ&_nc_tpa=Q5bMBQH4vqFFG_unBOKtKlCK-PjiZSqchTR298F4wpHoBCmBtdPaftVeOMgaAXNqrKRFr20CexHjdBPJlA&oh=00_AQHVBFXsgYwFl_UdlWHe6v7-8IQveMgjggxXq93TYvwazQ&oe=6A740E82",
       "timestamp": "2025-05-19T15:00:00+0000",
       "likes": 191,
       "comentarios": 14,
@@ -1568,7 +1566,7 @@
       "formato": "Reel",
       "legenda": "Nós, da Paccola e Pelegrini, estaremos no projeto “Imersão Cultural na Dança”, participando com uma palestra sobre empreendedorismo jovem. O evento acontecerá no dia 29 de novembro, às 19h, no Teatro ",
       "permalink": "https://www.instagram.com/reel/DB_rlctugrR/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/503128789_1547960859501620_1300280146722682314_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=k7Zd8jhEHe8Q7kNvwEeMcOg&_nc_oc=AdqXPRAxjLqsp8RY5PSqEU2ItxXDOeAfZkSUTt-cGU7AOsIvV2FAVA01PBNgvfd9G08qToUuPlKY-ylP2aMEgUJu&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=TmIuEf2e0GokAZ24ck_YKA&_nc_tpa=Q5bMBQHXGuw1C2lh6VGy9djEILgW5bl8Dbcn6rcvKkR42XkHNHIOkTSj1w3O8jRRculy9i_YlXvDioFNHg&oh=00_AQEerLZdSKm7F9XoqGvKXMWfGFYev6gdypkhTOn8hNHygw&oe=6A7284A3",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/503128789_1547960859501620_1300280146722682314_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=dMw4f9PExjQQ7kNvwHas7n8&_nc_oc=Adqqph1yCJUTdvU7LUA8jDtsnl7u9AIPHKpBs4UFoVJSQJQcQcMc4Yxy__gm93lWPBPACZ64zYJFbm2nfvHynaLx&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=Po1oJHz4TWwPYMWC6xj6kg&_nc_tpa=Q5bMBQGq6AIkYAitHSG_4D2KK8g6wvAb7rWvFPvyUyXrcY0Km-1CNnRFDCDWN4TNFbxIRdmnHbxt38ZA8Q&oh=00_AQGsHf0OGAbCFBpRVLXQHzzL5WeTgxhiHDSXaTi5K3-E9w&oe=6A740E63",
       "timestamp": "2024-11-05T15:41:33+0000",
       "likes": 178,
       "comentarios": 12,
@@ -1579,7 +1577,7 @@
       "formato": "Carrossel",
       "legenda": "Na advocacia nenhuma experiência é individual. Qual a sua preferida? 😂 \n\nDeixa aqui nos comentários mais frases pra parte 2!",
       "permalink": "https://www.instagram.com/p/DTnGtehkS9b/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/616796130_18210390715316302_4168353618331672905_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=llQpLFIJSzUQ7kNvwHzOgIu&_nc_oc=AdrHjqxsESiLkYqmgrHchvkfDR-dPjSD16gNyMujGXUIiUTj7EuTpXjtfYRVXqcBmJ1nRgDjJfL_EaHCLQdfhsW4&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=pjEbOhbfM92BVqi-olFrAQ&oh=00_AQFE7cS-FfdSk36EevTJQc6rL6EL0c8KcW-D4fEjIMGpqA&oe=6A726694",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/616796130_18210390715316302_4168353618331672905_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=llQpLFIJSzUQ7kNvwFiT1zX&_nc_oc=AdrxbSq2E6IoInuaBJasCZmAyx7c9VhEL4HMQTs7xfoJAIVyNNPXtdUJTiQiQm0VVouvs7ykM0KnQ97mW23Q6qAc&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=df5B2LZQSMdLQtJIaYHq6A&oh=00_AQHht5oxegoUbCcEkVfj7nWnv859ATj_gixcwV7trKxIsw&oe=6A742894",
       "timestamp": "2026-01-17T12:00:00+0000",
       "likes": 156,
       "comentarios": 24,
@@ -1590,7 +1588,7 @@
       "formato": "Reel",
       "legenda": "O importante é tentar 😅 \n#fypreelsシ゚ #trend #emprestimo",
       "permalink": "https://www.instagram.com/reel/DKQFHPeya-E/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/502761809_753513013768736_8406880968298061548_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=P_tpvFDeq5MQ7kNvwGEz8c9&_nc_oc=AdoDbOjBpTrOQCkmZY3P3_STjZPr7CJ4RiBk4RemusrRa6P-V17eAieVXPRF5GT51SB1HGyVDK6S9VyE7JFmFapM&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=aarbfJDCZFK2-nTZPITa4g&_nc_tpa=Q5bMBQG-SFHD9vd9w3tHMVDwk95avAzeRViiQXP1WoIv4yGF3tpl9RxKIoeZsRIMFUUgT7ycXETUtOMCDQ&oh=00_AQHf1ak6oRCT6R2UuvRNrEPbknCApdX0epsGClQTFH-qrg&oe=6A72997A",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/502761809_753513013768736_8406880968298061548_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2xXRwZTekl0Q7kNvwE4oFn3&_nc_oc=AdoTg_JyC5S6UgnRi0-F6j6gtoqcGXlwcEZSc1yiyxW4jlF3JGO9KDaiN10uZQzP47OrjEEkkMGjEJTzhbNhAn2h&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=2aeI7zFskAhUqN4wqJVPOQ&_nc_tpa=Q5bMBQHwuG-VgS4ex9ZQPFRzO-XWz7xBapXDBNivRDLh9qqemOSxOK8I5QZlCu1fx0v3ma9znY_SXxfelw&oh=00_AQF8h0I66PY5GPUeRWHMw-EmaDX1gnYESLCKiMxGRYPRHg&oe=6A74233A",
       "timestamp": "2025-05-29T20:41:51+0000",
       "likes": 157,
       "comentarios": 6,
@@ -1601,7 +1599,7 @@
       "formato": "Reel",
       "legenda": "Como explicar? 🧐\n\n#paccolaepelegrini #advocacia #advogada #advogadobancario",
       "permalink": "https://www.instagram.com/reel/DQUUWCbkWv7/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/562556911_1430128745146266_8853723811152726078_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=o3S8VDvlOeUQ7kNvwHl7syS&_nc_oc=Adrqr-pfUNuAYcfUJd6Za-CBTrkiqsYZoxqLWmGijVMboVRjZD6gofVmbPOPbU4xgy-JpkJvhnnyEK2BtkE6Dcmh&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=j7KatPSO-pk2Iph_MPSNkQ&_nc_tpa=Q5bMBQE7Y0eaHqeRe0ti7J8QGbd9PhbZVZs6UAThvbe9ifHmQH36r5AYtb6s4JT8hsUczg55jjGlvhr_bw&oh=00_AQG0oyTLq2P57xTibYv8hIZE-3OeGp_H9s217MGFG65OJA&oe=6A726503",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/562556911_1430128745146266_8853723811152726078_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=F1eq6JQRpmsQ7kNvwEWHYGJ&_nc_oc=Adp4qVFPJ1ToGn9mmbjksyKjlS4CKND6x94eJf0uQ1DAEoma-pnSnCxRBEWt9AZ4qPjNP2H0q7iA7VPiNdFDeU2O&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=yyjN2OhaF8NNBH-4dYWegw&_nc_tpa=Q5bMBQEx3sNWgWPq8fLC54gr7b9h84vhegeyoTaDLGdAwkrk-haXc_VEXQMfY-0sbr-UKcIg5FQDMZweLw&oh=00_AQHDoSmCZc131z11SBSAe65e2eCeL9Ky__9zXAyxGZ8X_w&oe=6A742703",
       "timestamp": "2025-10-27T15:20:14+0000",
       "likes": 157,
       "comentarios": 5,
@@ -1612,7 +1610,7 @@
       "formato": "Reel",
       "legenda": "Ossos do ofício",
       "permalink": "https://www.instagram.com/reel/DUWbyiVEvjj/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/626696000_18212853070316302_5842212920211687802_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9vtxKdOMCCUQ7kNvwGRe1Tv&_nc_oc=AdrApcDZayqf2j0_TS3x2uSjbMAm51N7l_1p7c2VIOMArzIqAdlOQ4FR630PJutjFv31hD1XT_-Q7F5LKwQU6QC9&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=MIqcbEFFQXbq6pZRuOTuAg&_nc_tpa=Q5bMBQHNaTCzRk2vtvHS5Iw2uEP7wP5JQF96tihGO4n-1QEO7YZ7FC-x-GJxuLTfkg1viYPh6j_L4fi3Dg&oh=00_AQH1055TRbOQ9BLnRmuM1GPTXfjEmDhFGPfTfJLSm76-6A&oe=6A7290C2",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.82787-15/626696000_18212853070316302_5842212920211687802_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9vtxKdOMCCUQ7kNvwFJXXui&_nc_oc=AdrwR6e_lbRSc9W5-BJCE6Suvjz0vy_xRdt3xK9HOXtRLoaIiI5-Rxas7zo4sykwbbHlHNefiqAmJdFGF03IbDJu&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=JML_BCQutUL_8Gw-whjYAw&_nc_tpa=Q5bMBQHE4Gy_za6M9mqMYWvADfsQz0N4uqCoYO2ECWBwZsU1-j5Mqt4gARuIU7gdZf44J7BvyGboZeSheg&oh=00_AQH2kgcHLtgsbHje2tEeIn6XHWWjsgDLgYcI7cTqsuOQnw&oe=6A741A82",
       "timestamp": "2026-02-04T21:08:50+0000",
       "likes": 157,
       "comentarios": 4,
@@ -1623,14 +1621,14 @@
       "formato": "Reel",
       "legenda": "#advocacia #paccolaepelegrini #direitobancário #humorjuridíco",
       "permalink": "https://www.instagram.com/reel/DT5DNeYkbzL/",
-      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/618843153_892840807018065_8957211958360151254_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=hbuNIV_vjU0Q7kNvwGzfwDW&_nc_oc=Ado1WKUtrSIqPgBT83q62j0pAZLcJ3dNn21GDiYtU0IlblMwuEHiiCbs3MtM2SaDy9t2WUyxVXydIJ3tSB8lTDiR&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=pjEbOhbfM92BVqi-olFrAQ&_nc_tpa=Q5bMBQEsGqdkwBEAo1OGy1_aR2qfFmY5lF2UCA9cUweLJHNGnIHS7KouRUq062fgcCgklyKHQQu1UGfO_A&oh=00_AQGnkHVdngvirgrJqvZ7flrOlqfCEKDdszK6XggkYjp2KQ&oe=6A728067",
+      "miniatura": "https://scontent.cdninstagram.com/v/t51.71878-15/618843153_892840807018065_8957211958360151254_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=hbuNIV_vjU0Q7kNvwG_Sh3K&_nc_oc=Adquuq3z1A1K3suIpoBrJzZuNJW4sUAQomCoIPOlpnOBwKft54wjIwvrJBdkHWvhm1n4PM8LDO8A0Df6_bfeD24E&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&edm=AM6HXa8EAAAA&_nc_gid=df5B2LZQSMdLQtJIaYHq6A&_nc_tpa=Q5bMBQE7hubyrBZMjEcWSqLHBuhuGkMnetSZ2jeXSyN76nPVlifAaAMlvLUgRqdCPQ-7GPV-zgLxq_1NWw&oh=00_AQHCojEh54mBnDyhIbRie3RmtcFScEAKopH2Xjq_s5U6Mg&oe=6A740A27",
       "timestamp": "2026-01-24T11:15:00+0000",
       "likes": 155,
       "comentarios": 1,
       "interacoes": 156
     }
   ],
-  "totalPostsTudo": 832,
+  "totalPostsTudo": 833,
   "demografia": {
     "age": [
       {
@@ -1639,41 +1637,41 @@
       },
       {
         "chave": "18-24",
-        "valor": 164
+        "valor": 163
       },
       {
         "chave": "25-34",
-        "valor": 2072
+        "valor": 2073
       },
       {
         "chave": "35-44",
-        "valor": 3012
+        "valor": 3025
       },
       {
         "chave": "45-54",
-        "valor": 2841
+        "valor": 2848
       },
       {
         "chave": "55-64",
-        "valor": 2264
+        "valor": 2275
       },
       {
         "chave": "65+",
-        "valor": 1763
+        "valor": 1780
       }
     ],
     "gender": [
       {
         "chave": "F",
-        "valor": 7045
+        "valor": 7075
       },
       {
         "chave": "M",
-        "valor": 4030
+        "valor": 4049
       },
       {
         "chave": "U",
-        "valor": 1050
+        "valor": 1049
       }
     ],
     "city": [
@@ -1683,7 +1681,7 @@
       },
       {
         "chave": "São Paulo, São Paulo (state)",
-        "valor": 787
+        "valor": 790
       },
       {
         "chave": "Agudos, São Paulo (state)",
@@ -1695,11 +1693,11 @@
       },
       {
         "chave": "Rio de Janeiro, Rio de Janeiro (state)",
-        "valor": 99
+        "valor": 97
       },
       {
         "chave": "Avaré, São Paulo (state)",
-        "valor": 35
+        "valor": 36
       },
       {
         "chave": "São José dos Campos, São Paulo (state)",
@@ -1707,11 +1705,11 @@
       },
       {
         "chave": "Osasco, São Paulo (state)",
-        "valor": 39
+        "valor": 38
       },
       {
         "chave": "Maceió, Alagoas",
-        "valor": 43
+        "valor": 45
       },
       {
         "chave": "Uberlândia, Minas Gerais",
@@ -1723,7 +1721,7 @@
       },
       {
         "chave": "Porto Alegre, Rio Grande do Sul",
-        "valor": 90
+        "valor": 92
       },
       {
         "chave": "Campo Grande, Mato Grosso do Sul",
@@ -1731,11 +1729,11 @@
       },
       {
         "chave": "Parnamirim, Rio Grande do Norte",
-        "valor": 147
+        "valor": 149
       },
       {
         "chave": "Londrina, Paraná",
-        "valor": 37
+        "valor": 36
       },
       {
         "chave": "Jaú, São Paulo (state)",
@@ -1743,11 +1741,11 @@
       },
       {
         "chave": "João Pessoa, Paraíba",
-        "valor": 43
+        "valor": 44
       },
       {
         "chave": "Vitória da Conquista, Bahia",
-        "valor": 44
+        "valor": 46
       },
       {
         "chave": "Mossoró, Rio Grande do Norte",
@@ -1755,7 +1753,7 @@
       },
       {
         "chave": "Feira de Santana, Bahia",
-        "valor": 59
+        "valor": 58
       },
       {
         "chave": "Recife, Pernambuco",
@@ -1763,11 +1761,11 @@
       },
       {
         "chave": "Lauro de Freitas, Bahia",
-        "valor": 36
+        "valor": 38
       },
       {
         "chave": "Guarulhos, São Paulo (state)",
-        "valor": 78
+        "valor": 79
       },
       {
         "chave": "Sorocaba, São Paulo (state)",
@@ -1775,39 +1773,43 @@
       },
       {
         "chave": "Lençóis, São Paulo (state)",
-        "valor": 116
-      },
-      {
-        "chave": "Santos, São Paulo (state)",
-        "valor": 37
+        "valor": 115
       },
       {
         "chave": "Piracicaba, São Paulo (state)",
         "valor": 39
       },
       {
+        "chave": "Santos, São Paulo (state)",
+        "valor": 41
+      },
+      {
         "chave": "São Bernardo do Campo, São Paulo (state)",
-        "valor": 51
+        "valor": 50
       },
       {
         "chave": "Natal, Rio Grande do Norte",
         "valor": 450
       },
       {
+        "chave": "Araçatuba, São Paulo (state)",
+        "valor": 34
+      },
+      {
         "chave": "Salvador, Bahia",
-        "valor": 275
+        "valor": 279
       },
       {
         "chave": "Bauru, São Paulo (state)",
-        "valor": 925
+        "valor": 930
       },
       {
         "chave": "Goiânia, Goiás",
-        "valor": 55
+        "valor": 56
       },
       {
         "chave": "Fortaleza, Ceará",
-        "valor": 74
+        "valor": 77
       },
       {
         "chave": "Manaus, Amazonas",
@@ -1815,7 +1817,7 @@
       },
       {
         "chave": "Marília, São Paulo (state)",
-        "valor": 52
+        "valor": 51
       },
       {
         "chave": "Caicó, Rio Grande do Norte",
@@ -1823,7 +1825,7 @@
       },
       {
         "chave": "Ceará-Mirim, Rio Grande do Norte",
-        "valor": 36
+        "valor": 38
       },
       {
         "chave": "Cuiabá, Mato Grosso",
@@ -1831,31 +1833,27 @@
       },
       {
         "chave": "Belo Horizonte, Minas Gerais",
-        "valor": 85
+        "valor": 86
       },
       {
         "chave": "São José do Rio Prêto, São Paulo (state)",
-        "valor": 74
-      },
-      {
-        "chave": "Taguatinga, Federal District",
-        "valor": 34
+        "valor": 76
       },
       {
         "chave": "Santo André, São Paulo (state)",
-        "valor": 47
+        "valor": 48
       },
       {
         "chave": "Curitiba, Paraná",
-        "valor": 114
+        "valor": 116
       },
       {
         "chave": "Piratininga, São Paulo (state)",
-        "valor": 42
+        "valor": 43
       },
       {
         "chave": "Campinas, São Paulo (state)",
-        "valor": 101
+        "valor": 99
       }
     ],
     "country": [
@@ -1893,7 +1891,7 @@
       },
       {
         "chave": "BR",
-        "valor": 12037
+        "valor": 12084
       },
       {
         "chave": "SE",
@@ -1941,14 +1939,14 @@
       },
       {
         "chave": "CL",
+        "valor": 2
+      },
+      {
+        "chave": "GR",
         "valor": 1
       },
       {
         "chave": "MX",
-        "valor": 1
-      },
-      {
-        "chave": "GR",
         "valor": 1
       },
       {
@@ -1982,10 +1980,10 @@
     ]
   },
   "funil": {
-    "alcance": 1882,
-    "interacoes": 393,
-    "visitasPerfil": 123,
-    "cliquesLink": 8,
-    "seguidores": 12344
+    "alcance": 611,
+    "interacoes": 253,
+    "visitasPerfil": 59,
+    "cliquesLink": 0,
+    "seguidores": 12367
   }
 }
